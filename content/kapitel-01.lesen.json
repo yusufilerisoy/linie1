@@ -1,0 +1,219 @@
+{
+  "texts": [
+    {
+      "id": "l1.steckbrief-eleni",
+      "title": "Steckbrief: Eleni Dumitru",
+      "subtitle": "Lesen · Steckbrief",
+      "lines": [
+        { "de": "Name: Eleni Dumitru", "tr": "Ad: Eleni Dumitru" },
+        { "de": "Land: Rumänien", "tr": "Ülke: Romanya" },
+        { "de": "Stadt: Deva", "tr": "Şehir: Deva" },
+        { "de": "Wohnort jetzt: München, Blumenstraße 4", "tr": "Şu anki adres: Münih, Blumenstraße 4" },
+        { "de": "Telefon: 089 63822392", "tr": "Telefon: 089 63822392" },
+        { "de": "Kurs: Deutsch A1, Multilingua", "tr": "Kurs: Almanca A1, Multilingua" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Woher kommt Eleni?", "options": [{ "text": "aus Rumänien", "correct": true }, { "text": "aus Deutschland", "correct": false }, { "text": "aus Spanien", "correct": false }], "explain": "„Land: Rumänien“ – Eleni Romanya'dan geliyor." },
+        { "id": "q2", "kind": "truefalse", "prompt": "Eleni wohnt jetzt in Deva.", "answer": false, "explain": "Deva doğduğu şehir; şimdi Münih'te oturuyor." },
+        { "id": "q3", "kind": "choice", "prompt": "Wie ist die Telefonnummer?", "options": [{ "text": "089 63822392", "correct": true }, { "text": "089 36822392", "correct": false }, { "text": "080 63822392", "correct": false }], "explain": "Telefon: 089 63822392." }
+      ]
+    },
+    {
+      "id": "l1.email-kurs",
+      "title": "E-Mail an die Kursleiterin",
+      "subtitle": "Lesen · E-Mail",
+      "lines": [
+        { "de": "Guten Tag, Frau Bauer,", "tr": "İyi günler Bayan Bauer," },
+        { "de": "ich heiße Pablo Puente und komme aus Spanien, aus Sevilla.", "tr": "adım Pablo Puente, İspanya'dan, Sevilla'dan geliyorum." },
+        { "de": "Ich wohne jetzt in München.", "tr": "Şimdi Münih'te oturuyorum." },
+        { "de": "Meine Telefonnummer ist 0176 4455 2211.", "tr": "Telefon numaram 0176 4455 2211." },
+        { "de": "Der Kurs ist am Montag, richtig?", "tr": "Kurs pazartesi, doğru mu?" },
+        { "de": "Viele Grüße, Pablo", "tr": "Selamlar, Pablo" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wer schreibt die E-Mail?", "options": [{ "text": "Pablo", "correct": true }, { "text": "Frau Bauer", "correct": false }, { "text": "Eleni", "correct": false }], "explain": "„ich heiße Pablo Puente“ – e-postayı Pablo yazıyor." },
+        { "id": "q2", "kind": "choice", "prompt": "Woher kommt Pablo?", "options": [{ "text": "aus Spanien", "correct": true }, { "text": "aus München", "correct": false }, { "text": "aus Rumänien", "correct": false }], "explain": "„komme aus Spanien, aus Sevilla“." },
+        { "id": "q3", "kind": "truefalse", "prompt": "Pablo fragt: Ist der Kurs am Montag?", "answer": true, "explain": "„Der Kurs ist am Montag, richtig?“" }
+      ]
+    },
+    {
+      "id": "l1.kursinfo",
+      "title": "Infoblatt: Deutschkurs A1",
+      "subtitle": "Lesen · Aushang",
+      "lines": [
+        { "de": "Deutschkurs A1 – Herzlich willkommen!", "tr": "Almanca Kursu A1 – Hoş geldiniz!" },
+        { "de": "Kursleiterin: Frau Anne Bauer", "tr": "Kurs öğretmeni: Bayan Anne Bauer" },
+        { "de": "Zimmer 4, Multilingua München", "tr": "Oda 4, Multilingua Münih" },
+        { "de": "Kurstage: Montag und Mittwoch, 18 bis 20 Uhr", "tr": "Kurs günleri: Pazartesi ve Çarşamba, 18–20 arası" },
+        { "de": "Anmeldung: Frau Nowak, Telefon 089 221133", "tr": "Kayıt: Bayan Nowak, telefon 089 221133" },
+        { "de": "Bitte das Formular ausfüllen. Danke!", "tr": "Lütfen formu doldurun. Teşekkürler!" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wer ist die Kursleiterin?", "options": [{ "text": "Frau Bauer", "correct": true }, { "text": "Frau Nowak", "correct": false }, { "text": "Frau Dumitru", "correct": false }], "explain": "„Kursleiterin: Frau Anne Bauer“. Frau Nowak kayıt için." },
+        { "id": "q2", "kind": "truefalse", "prompt": "Der Kurs ist am Freitag.", "answer": false, "explain": "Montag und Mittwoch – cuma yok." },
+        { "id": "q3", "kind": "choice", "prompt": "Wo ist der Kurs?", "options": [{ "text": "Zimmer 4", "correct": true }, { "text": "Zimmer 14", "correct": false }, { "text": "Zimmer 2", "correct": false }], "explain": "„Zimmer 4, Multilingua München“." }
+      ]
+    },
+    {
+      "id": "l1.chat-tolga",
+      "title": "Chat: Tolga und Dana",
+      "subtitle": "Lesen · Chat",
+      "lines": [
+        { "who": "Tolga", "de": "Hallo! Ich bin Tolga. Wer bist du?", "tr": "Merhaba! Ben Tolga. Sen kimsin?" },
+        { "who": "Dana", "de": "Hallo Tolga, ich heiße Dana.", "tr": "Merhaba Tolga, adım Dana." },
+        { "who": "Tolga", "de": "Woher kommst du, Dana?", "tr": "Nereden geliyorsun Dana?" },
+        { "who": "Dana", "de": "Aus Polen, aus Krakau. Und du?", "tr": "Polonya'dan, Krakov'dan. Ya sen?" },
+        { "who": "Tolga", "de": "Ich komme aus der Türkei, aus Antalya. Ich wohne jetzt in München.", "tr": "Türkiye'den, Antalya'dan geliyorum. Şimdi Münih'te oturuyorum." },
+        { "who": "Dana", "de": "Ich auch! Bis Montag im Kurs. Tschüs!", "tr": "Ben de! Pazartesi kursta görüşürüz. Hoşça kal!" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Woher kommt Dana?", "options": [{ "text": "aus Polen", "correct": true }, { "text": "aus der Türkei", "correct": false }, { "text": "aus Deutschland", "correct": false }], "explain": "„Aus Polen, aus Krakau.“" },
+        { "id": "q2", "kind": "truefalse", "prompt": "Tolga und Dana wohnen in München.", "answer": true, "explain": "Tolga: „Ich wohne jetzt in München.“ Dana: „Ich auch!“" },
+        { "id": "q3", "kind": "choice", "prompt": "Was sagt Dana am Ende?", "options": [{ "text": "Tschüs!", "correct": true }, { "text": "Guten Morgen!", "correct": false }, { "text": "Herzlich willkommen!", "correct": false }], "explain": "Vedalaşma: „Tschüs!“" }
+      ]
+    },
+    {
+      "id": "l1.visitenkarte",
+      "title": "Zwei Visitenkarten",
+      "subtitle": "Lesen · Visitenkarte",
+      "lines": [
+        { "de": "Dr. Maria Canale – Ärztin", "tr": "Dr. Maria Canale – Doktor" },
+        { "de": "Praxis am Markt, Marktplatz 12, 80331 München", "tr": "Markt Muayenehanesi, Marktplatz 12, 80331 Münih" },
+        { "de": "Telefon: 089 55 44 33 22", "tr": "Telefon: 089 55 44 33 22" },
+        { "de": "Ali Güler – Taxi Güler", "tr": "Ali Güler – Güler Taksi" },
+        { "de": "Bahnhofstraße 7, 80335 München", "tr": "Bahnhofstraße 7, 80335 Münih" },
+        { "de": "Handy: 0172 99 88 77 66", "tr": "Cep: 0172 99 88 77 66" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wie ist die Postleitzahl von Frau Canale?", "options": [{ "text": "80331", "correct": true }, { "text": "80335", "correct": false }, { "text": "80313", "correct": false }], "explain": "Marktplatz 12, 80331 München." },
+        { "id": "q2", "kind": "truefalse", "prompt": "Herr Güler wohnt in der Marktplatz 12.", "answer": false, "explain": "Herr Güler: Bahnhofstraße 7." },
+        { "id": "q3", "kind": "choice", "prompt": "Welche Nummer ist ein Handy?", "options": [{ "text": "0172 99 88 77 66", "correct": true }, { "text": "089 55 44 33 22", "correct": false }, { "text": "80335", "correct": false }], "explain": "„Handy: 0172 …“ – 089 sabit hat, 80335 posta kodu." }
+      ]
+    },
+    {
+      "id": "l1.anmeldung-formular",
+      "title": "Anmeldeformular Multilingua",
+      "subtitle": "Lesen · Formular",
+      "lines": [
+        { "de": "Familienname: Sabatini", "tr": "Soyadı: Sabatini" },
+        { "de": "Vorname: Marco", "tr": "Adı: Marco" },
+        { "de": "Land: Italien", "tr": "Ülke: İtalya" },
+        { "de": "Wohnort: München-Pasing", "tr": "İkamet: Münih-Pasing" },
+        { "de": "Straße: Bergstraße 21", "tr": "Sokak: Bergstraße 21" },
+        { "de": "Postleitzahl: 81241", "tr": "Posta kodu: 81241" },
+        { "de": "Telefon: 089 81 24 10 10", "tr": "Telefon: 089 81 24 10 10" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wie ist der Vorname?", "options": [{ "text": "Marco", "correct": true }, { "text": "Sabatini", "correct": false }, { "text": "Pasing", "correct": false }], "explain": "Vorname = ad: Marco. Sabatini soyadı." },
+        { "id": "q2", "kind": "choice", "prompt": "Woher kommt Herr Sabatini?", "options": [{ "text": "aus Italien", "correct": true }, { "text": "aus Spanien", "correct": false }, { "text": "aus Österreich", "correct": false }], "explain": "„Land: Italien“." },
+        { "id": "q3", "kind": "truefalse", "prompt": "Die Postleitzahl ist 81241.", "answer": true, "explain": "Postleitzahl: 81241." }
+      ]
+    },
+    {
+      "id": "l1.telefon-dialog",
+      "title": "Am Telefon: Falsch verbunden",
+      "subtitle": "Lesen · Telefon",
+      "lines": [
+        { "who": "Herr Kraus", "de": "Kraus, guten Tag.", "tr": "Kraus, iyi günler." },
+        { "who": "Eleni", "de": "Guten Tag, hier ist Eleni Dumitru. Ist da Multilingua?", "tr": "İyi günler, ben Eleni Dumitru. Multilingua mı orası?" },
+        { "who": "Herr Kraus", "de": "Nein, hier ist Kraus. Welche Nummer haben Sie?", "tr": "Hayır, burası Kraus. Hangi numarayı aradınız?" },
+        { "who": "Eleni", "de": "089 22 11 33.", "tr": "089 22 11 33." },
+        { "who": "Herr Kraus", "de": "Das ist falsch. Hier ist 089 22 11 32.", "tr": "Yanlış. Burası 089 22 11 32." },
+        { "who": "Eleni", "de": "Oh, Entschuldigung! Auf Wiederhören.", "tr": "Ah, özür dilerim! Hoşça kalın (telefonda)." }
+      ],
+      "items": [
+        { "id": "q1", "kind": "truefalse", "prompt": "Eleni spricht mit Multilingua.", "answer": false, "explain": "Yanlış numara: Herr Kraus'u aramış." },
+        { "id": "q2", "kind": "choice", "prompt": "Wie ist die Nummer von Herrn Kraus?", "options": [{ "text": "089 22 11 32", "correct": true }, { "text": "089 22 11 33", "correct": false }, { "text": "089 23 11 32", "correct": false }], "explain": "„Hier ist 089 22 11 32.“" },
+        { "id": "q3", "kind": "choice", "prompt": "Was sagt man am Telefon zum Abschied?", "options": [{ "text": "Auf Wiederhören.", "correct": true }, { "text": "Guten Morgen.", "correct": false }, { "text": "Herzlich willkommen.", "correct": false }], "explain": "Telefonda vedalaşma: „Auf Wiederhören“ (duymak = hören)." }
+      ]
+    },
+    {
+      "id": "l1.wer-ist-das",
+      "title": "Wer ist das? Drei Personen",
+      "subtitle": "Lesen · Personen",
+      "lines": [
+        { "de": "Das ist Anne Dahms. Sie kommt aus Deutschland, aus Hamburg.", "tr": "Bu Anne Dahms. Almanya'dan, Hamburg'dan geliyor." },
+        { "de": "Sie wohnt jetzt in München und ist Kursleiterin.", "tr": "Şimdi Münih'te oturuyor ve kurs öğretmeni." },
+        { "de": "Das ist Pablo Puente. Er kommt aus Spanien.", "tr": "Bu Pablo Puente. İspanya'dan geliyor." },
+        { "de": "Er ist Student und lernt Deutsch.", "tr": "Öğrenci ve Almanca öğreniyor." },
+        { "de": "Das ist Ayşe Yılmaz. Sie kommt aus der Türkei, aus Izmir.", "tr": "Bu Ayşe Yılmaz. Türkiye'den, İzmir'den geliyor." },
+        { "de": "Sie wohnt in Augsburg und arbeitet bei Siemens.", "tr": "Augsburg'da oturuyor ve Siemens'te çalışıyor." }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wer kommt aus Hamburg?", "options": [{ "text": "Anne Dahms", "correct": true }, { "text": "Pablo Puente", "correct": false }, { "text": "Ayşe Yılmaz", "correct": false }], "explain": "„Anne Dahms … aus Hamburg.“" },
+        { "id": "q2", "kind": "truefalse", "prompt": "Ayşe wohnt in München.", "answer": false, "explain": "Ayşe Augsburg'da oturuyor." },
+        { "id": "q3", "kind": "choice", "prompt": "Was macht Pablo?", "options": [{ "text": "Er lernt Deutsch.", "correct": true }, { "text": "Er ist Kursleiter.", "correct": false }, { "text": "Er arbeitet bei Siemens.", "correct": false }], "explain": "„Er ist Student und lernt Deutsch.“" }
+      ]
+    },
+    {
+      "id": "l1.buchstabieren",
+      "title": "Wie schreibt man das?",
+      "subtitle": "Lesen · Buchstabieren",
+      "lines": [
+        { "who": "Frau Nowak", "de": "Wie ist Ihr Familienname, bitte?", "tr": "Soyadınız nedir lütfen?" },
+        { "who": "Herr Nguyen", "de": "Nguyen.", "tr": "Nguyen." },
+        { "who": "Frau Nowak", "de": "Wie schreibt man das?", "tr": "Nasıl yazılıyor?" },
+        { "who": "Herr Nguyen", "de": "N – G – U – Y – E – N.", "tr": "N – G – U – Y – E – N." },
+        { "who": "Frau Nowak", "de": "Danke. Und der Vorname?", "tr": "Teşekkürler. Peki adınız?" },
+        { "who": "Herr Nguyen", "de": "Minh. M – I – N – H. Ich komme aus Vietnam.", "tr": "Minh. M – I – N – H. Vietnam'dan geliyorum." }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wie heißt der Mann mit Vornamen?", "options": [{ "text": "Minh", "correct": true }, { "text": "Nguyen", "correct": false }, { "text": "Nowak", "correct": false }], "explain": "Vorname: Minh. Nguyen soyadı." },
+        { "id": "q2", "kind": "truefalse", "prompt": "Herr Nguyen kommt aus Vietnam.", "answer": true, "explain": "„Ich komme aus Vietnam.“" },
+        { "id": "q3", "kind": "choice", "prompt": "Was fragt Frau Nowak zuerst?", "options": [{ "text": "den Familiennamen", "correct": true }, { "text": "die Telefonnummer", "correct": false }, { "text": "das Land", "correct": false }], "explain": "İlk soru: „Wie ist Ihr Familienname?“" }
+      ]
+    },
+    {
+      "id": "l1.anzeige",
+      "title": "Anzeige: Tandempartner gesucht",
+      "subtitle": "Lesen · Anzeige",
+      "lines": [
+        { "de": "Hallo! Ich heiße Jonas und bin aus Österreich, aus Graz.", "tr": "Merhaba! Adım Jonas, Avusturya'dan, Graz'danım." },
+        { "de": "Ich wohne in München und lerne Türkisch.", "tr": "Münih'te oturuyorum ve Türkçe öğreniyorum." },
+        { "de": "Du kommst aus der Türkei und lernst Deutsch?", "tr": "Türkiye'den misin ve Almanca mı öğreniyorsun?" },
+        { "de": "Super! Wir sprechen eine Stunde Deutsch und eine Stunde Türkisch.", "tr": "Harika! Bir saat Almanca, bir saat Türkçe konuşuruz." },
+        { "de": "Telefon: 0151 23 45 67 89 – oder E-Mail: jonas.graz@mail.at", "tr": "Telefon: 0151 23 45 67 89 – ya da e-posta: jonas.graz@mail.at" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Woher kommt Jonas?", "options": [{ "text": "aus Österreich", "correct": true }, { "text": "aus Deutschland", "correct": false }, { "text": "aus der Türkei", "correct": false }], "explain": "„aus Österreich, aus Graz“." },
+        { "id": "q2", "kind": "choice", "prompt": "Was lernt Jonas?", "options": [{ "text": "Türkisch", "correct": true }, { "text": "Deutsch", "correct": false }, { "text": "Spanisch", "correct": false }], "explain": "„lerne Türkisch“." },
+        { "id": "q3", "kind": "truefalse", "prompt": "Jonas sucht jemanden aus Spanien.", "answer": false, "explain": "Türkiye'den, Almanca öğrenen birini arıyor." }
+      ]
+    },
+    {
+      "id": "l1.zahlen-adressen",
+      "title": "Adressen und Zahlen",
+      "subtitle": "Lesen · Zahlen",
+      "lines": [
+        { "de": "Multilingua München: Schillerstraße 15, 80336 München.", "tr": "Multilingua Münih: Schillerstraße 15, 80336 Münih." },
+        { "de": "Telefon: 089 55 03 21. Öffnungszeiten: 9 bis 18 Uhr.", "tr": "Telefon: 089 55 03 21. Açılış saatleri: 9–18." },
+        { "de": "Multilingua Augsburg: Bahnhofstraße 3, 86150 Augsburg.", "tr": "Multilingua Augsburg: Bahnhofstraße 3, 86150 Augsburg." },
+        { "de": "Telefon: 0821 44 77 12. Öffnungszeiten: 10 bis 17 Uhr.", "tr": "Telefon: 0821 44 77 12. Açılış saatleri: 10–17." },
+        { "de": "Kurse: A1, A2 und B1. Anmeldung online oder im Büro.", "tr": "Kurslar: A1, A2 ve B1. Kayıt online ya da ofiste." }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Wie ist die Postleitzahl von Augsburg?", "options": [{ "text": "86150", "correct": true }, { "text": "80336", "correct": false }, { "text": "0821", "correct": false }], "explain": "„86150 Augsburg“. 0821 alan kodu." },
+        { "id": "q2", "kind": "truefalse", "prompt": "Multilingua München ist bis 18 Uhr offen.", "answer": true, "explain": "„Öffnungszeiten: 9 bis 18 Uhr.“" },
+        { "id": "q3", "kind": "choice", "prompt": "Welche Kurse gibt es?", "options": [{ "text": "A1, A2 und B1", "correct": true }, { "text": "nur A1", "correct": false }, { "text": "B2 und C1", "correct": false }], "explain": "„Kurse: A1, A2 und B1.“" }
+      ]
+    },
+    {
+      "id": "l1.erster-kurstag",
+      "title": "Der erste Kurstag",
+      "subtitle": "Lesen · Erzählung",
+      "lines": [
+        { "de": "Heute ist Montag. Es ist 18 Uhr.", "tr": "Bugün pazartesi. Saat 18." },
+        { "de": "Eleni kommt in den Kurs und sagt: „Guten Abend!“", "tr": "Eleni kursa geliyor ve „İyi akşamlar!“ diyor." },
+        { "de": "Frau Bauer sagt: „Herzlich willkommen, Frau Dumitru!“", "tr": "Bayan Bauer: „Hoş geldiniz Bayan Dumitru!“ diyor." },
+        { "de": "Dann kommt Pablo. Er sagt: „Hallo, ich bin Pablo. Ich komme aus Spanien.“", "tr": "Sonra Pablo geliyor. „Merhaba, ben Pablo. İspanya'dan geliyorum.“ diyor." },
+        { "de": "Eleni fragt: „Wo wohnst du jetzt?“ – „In München, in Pasing.“", "tr": "Eleni soruyor: „Şimdi nerede oturuyorsun?“ – „Münih'te, Pasing'de.“" },
+        { "de": "Um 20 Uhr ist der Kurs zu Ende. „Tschüs, bis Mittwoch!“", "tr": "Saat 20'de kurs bitiyor. „Hoşça kal, çarşambaya!“" }
+      ],
+      "items": [
+        { "id": "q1", "kind": "choice", "prompt": "Was sagt Eleni um 18 Uhr?", "options": [{ "text": "Guten Abend!", "correct": true }, { "text": "Guten Morgen!", "correct": false }, { "text": "Gute Nacht!", "correct": false }], "explain": "Saat 18, akşam: „Guten Abend!“" },
+        { "id": "q2", "kind": "choice", "prompt": "Wo wohnt Pablo?", "options": [{ "text": "in München-Pasing", "correct": true }, { "text": "in Spanien", "correct": false }, { "text": "in Augsburg", "correct": false }], "explain": "„In München, in Pasing.“" },
+        { "id": "q3", "kind": "truefalse", "prompt": "Der nächste Kurstag ist Mittwoch.", "answer": true, "explain": "„Tschüs, bis Mittwoch!“" }
+      ]
+    }
+  ]
+}

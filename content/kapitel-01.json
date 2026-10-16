@@ -1,0 +1,6832 @@
+{
+ "id": "k1",
+ "number": 1,
+ "title": "Herzlich willkommen!",
+ "subtitle": "Selamlaşma · kendini tanıtma · heceleme · telefon numarası",
+ "lernziele": [
+  "Sprechen: sich begrüßen und verabschieden",
+  "Sprechen: sich mit Namen, Adresse und Wohnort vorstellen",
+  "Sprechen: eine andere Person vorstellen",
+  "Sprechen: buchstabieren",
+  "Sprechen: nach Namen, Herkunft und Wohnort fragen",
+  "Sprechen: die Telefonnummer sagen",
+  "Hören: Angaben zu Herkunft und Wohnort",
+  "Schreiben: ein Formular ausfüllen",
+  "Lesen: ein Anmeldungsgespräch",
+  "Beruf: sich in der Firma anmelden"
+ ],
+ "audio": {
+  "1.01": "audio/k1/1_01.mp3",
+  "1.02": "audio/k1/1_02.mp3",
+  "1.03": "audio/k1/1_03.mp3",
+  "1.04": "audio/k1/1_04.mp3",
+  "1.05": "audio/k1/1_05.mp3",
+  "1.06": "audio/k1/1_06.mp3",
+  "1.07": "audio/k1/1_07.mp3",
+  "1.08": "audio/k1/1_08.mp3",
+  "1.09": "audio/k1/1_09.mp3",
+  "1.10": "audio/k1/1_10.mp3",
+  "1.11": "audio/k1/1_11.mp3",
+  "1.12": "audio/k1/1_12.mp3",
+  "1.13": "audio/k1/1_13.mp3",
+  "1.14": "audio/k1/1_14.mp3",
+  "1.15": "audio/k1/1_15.mp3",
+  "1.16": "audio/k1/1_16.mp3",
+  "1.17": "audio/k1/1_17.mp3",
+  "1.18": "audio/k1/1_18.mp3",
+  "1.19": "audio/k1/1_19.mp3",
+  "1.20": "audio/k1/1_20.mp3",
+  "1.21": "audio/k1/1_21.mp3",
+  "1.22": "audio/k1/1_22.mp3",
+  "1.23": "audio/k1/1_23.mp3",
+  "1.24": "audio/k1/1_24.mp3",
+  "1.25": "audio/k1/1_25.mp3",
+  "1.26": "audio/k1/1_26.mp3",
+  "1.27": "audio/k1/1_27.mp3",
+  "1.28": "audio/k1/1_28.mp3",
+  "1.29": "audio/k1/1_29.mp3",
+  "1.30": "audio/k1/1_30.mp3"
+ },
+ "words": [
+  {
+   "id": "k1.w.begruessung",
+   "de": "Begrüßung",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "selamlaşma",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.herr",
+   "de": "Herr",
+   "gender": "der",
+   "plural": "-en",
+   "tr": "Bay (erkeklere hitap)",
+   "example": "Das ist Herr Puente aus Spanien.",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.frau",
+   "de": "Frau",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "Bayan, kadın",
+   "example": "Guten Tag, Frau Dumitru!",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.foto",
+   "de": "Foto",
+   "gender": "das",
+   "plural": "-s",
+   "tr": "fotoğraf",
+   "example": "Sehen Sie die Fotos A–D an.",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.kurs",
+   "de": "Kurs",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "kurs",
+   "example": "Begrüßen Sie sich im Kurs.",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.tag",
+   "de": "Tag",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "gün",
+   "example": "Guten Tag, Frau Güler.",
+   "pos": "noun",
+   "section": 1
+  },
+  {
+   "id": "k1.w.sprechblase",
+   "de": "Sprechblase",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "konuşma balonu",
+   "example": "Ordnen Sie die Sprechblasen den Fotos zu.",
+   "pos": "noun",
+   "section": 1,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.guten-tag",
+   "de": "Guten Tag",
+   "tr": "İyi günler (gündüz selamı)",
+   "example": "Guten Tag, Herr Sabatini.",
+   "pos": "phrase",
+   "section": 1,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.hallo",
+   "de": "Hallo",
+   "tr": "Merhaba (samimi)",
+   "example": "Hallo, Eleni.",
+   "pos": "phrase",
+   "section": 1,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.herzlich-willkommen",
+   "de": "Herzlich willkommen",
+   "tr": "Hoş geldiniz",
+   "example": "Herzlich willkommen! Guten Tag, Frau Dumitru!",
+   "pos": "phrase",
+   "section": 1,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.das-ist",
+   "de": "Das ist …",
+   "tr": "Bu … (tanıtma)",
+   "example": "Das ist Herr Puente aus Spanien.",
+   "pos": "phrase",
+   "section": 1
+  },
+  {
+   "id": "k1.w.begruessen",
+   "de": "begrüßen",
+   "tr": "selamlamak",
+   "example": "Begrüßen Sie sich im Kurs.",
+   "pos": "verb",
+   "section": 1
+  },
+  {
+   "id": "k1.w.ansehen",
+   "de": "ansehen",
+   "tr": "bakmak, incelemek",
+   "example": "Sehen Sie die Fotos A–D an.",
+   "pos": "verb",
+   "section": 1
+  },
+  {
+   "id": "k1.w.ankreuzen",
+   "de": "ankreuzen",
+   "tr": "çarpı ile işaretlemek",
+   "example": "Kreuzen Sie an (x).",
+   "pos": "verb",
+   "section": 1
+  },
+  {
+   "id": "k1.w.zuordnen",
+   "de": "zuordnen",
+   "tr": "eşleştirmek",
+   "example": "Ordnen Sie die Sprechblasen den Fotos A oder D zu.",
+   "pos": "verb",
+   "section": 1
+  },
+  {
+   "id": "k1.w.und",
+   "de": "und",
+   "tr": "ve",
+   "example": "Und das ist Frau Dumitru aus Rumänien.",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.aus",
+   "de": "aus",
+   "tr": "-den, -dan (köken)",
+   "example": "Herr Puente aus Spanien.",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.kurstag",
+   "de": "Kurstag",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "kurs günü",
+   "example": "Der erste Kurstag.",
+   "pos": "noun",
+   "section": 2
+  },
+  {
+   "id": "k1.w.dialog",
+   "de": "Dialog",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "diyalog",
+   "example": "Lesen und hören Sie die Dialoge.",
+   "pos": "noun",
+   "section": 2
+  },
+  {
+   "id": "k1.w.morgen",
+   "de": "Morgen",
+   "gender": "der",
+   "plural": "-",
+   "tr": "sabah",
+   "example": "Guten Morgen.",
+   "pos": "noun",
+   "section": 2
+  },
+  {
+   "id": "k1.w.abend",
+   "de": "Abend",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "akşam",
+   "example": "Guten Abend.",
+   "pos": "noun",
+   "section": 2
+  },
+  {
+   "id": "k1.w.tageszeit",
+   "de": "Tageszeit",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "günün zamanı",
+   "example": "Variieren Sie die Tageszeiten.",
+   "pos": "noun",
+   "section": 2
+  },
+  {
+   "id": "k1.w.guten-morgen",
+   "de": "Guten Morgen",
+   "tr": "Günaydın",
+   "example": "Guten Morgen, ich heiße …",
+   "pos": "phrase",
+   "section": 2,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.guten-abend",
+   "de": "Guten Abend",
+   "tr": "İyi akşamlar",
+   "example": "Guten Abend, ich heiße …",
+   "pos": "phrase",
+   "section": 2,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.tschues",
+   "de": "Tschüs",
+   "tr": "Hoşça kal (samimi veda)",
+   "example": "Tschüs.",
+   "pos": "phrase",
+   "section": 2,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.auf-wiedersehen",
+   "de": "Auf Wiedersehen",
+   "tr": "Görüşmek üzere, hoşça kalın (resmi veda)",
+   "example": "Auf Wiedersehen.",
+   "pos": "phrase",
+   "section": 2,
+   "tags": [
+    "gruss"
+   ]
+  },
+  {
+   "id": "k1.w.heissen",
+   "de": "heißen",
+   "tr": "adı … olmak",
+   "example": "Ich heiße Pablo Puente. Wie heißen Sie?",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.lesen",
+   "de": "lesen",
+   "tr": "okumak",
+   "example": "Lesen und hören Sie die Dialoge.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.hoeren",
+   "de": "hören",
+   "tr": "dinlemek, duymak",
+   "example": "Hören Sie und sprechen Sie nach.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.sprechen",
+   "de": "sprechen",
+   "tr": "konuşmak",
+   "example": "Sprechen Sie.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.nachsprechen",
+   "de": "nachsprechen",
+   "tr": "tekrar etmek (söyleneni)",
+   "example": "Hören Sie und sprechen Sie nach.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.fragen",
+   "de": "fragen",
+   "tr": "sormak",
+   "example": "Fragen und antworten Sie.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.antworten",
+   "de": "antworten",
+   "tr": "cevap vermek",
+   "example": "Fragen und antworten Sie.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.variieren",
+   "de": "variieren",
+   "tr": "değiştirmek, çeşitlendirmek",
+   "example": "Variieren Sie die Tageszeiten.",
+   "pos": "verb",
+   "section": 2
+  },
+  {
+   "id": "k1.w.ich",
+   "de": "ich",
+   "tr": "ben",
+   "example": "Ich heiße Maria Canale.",
+   "pos": "other",
+   "section": 2,
+   "tags": [
+    "pronomen"
+   ]
+  },
+  {
+   "id": "k1.w.sie-formal",
+   "de": "Sie",
+   "tr": "siz (resmi hitap, her zaman büyük harf)",
+   "example": "Wie heißen Sie?",
+   "pos": "other",
+   "section": 2,
+   "tags": [
+    "pronomen"
+   ]
+  },
+  {
+   "id": "k1.w.wie",
+   "de": "wie",
+   "tr": "nasıl",
+   "example": "Wie heißen Sie?",
+   "pos": "other",
+   "section": 2,
+   "tags": [
+    "fragewort"
+   ]
+  },
+  {
+   "id": "k1.w.tabelle",
+   "de": "Tabelle",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "tablo",
+   "example": "Ergänzen Sie die Tabelle.",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.beispiel",
+   "de": "Beispiel",
+   "gender": "das",
+   "plural": "-e",
+   "tr": "örnek",
+   "example": "… wie im Beispiel.",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.luecke",
+   "de": "Lücke",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "boşluk",
+   "example": "Ergänzen Sie die Lücken.",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.verb",
+   "de": "Verb",
+   "gender": "das",
+   "plural": "-en",
+   "tr": "fiil",
+   "example": "Markieren Sie das Verb.",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.personalpronomen",
+   "de": "Personalpronomen",
+   "gender": "das",
+   "plural": "-",
+   "tr": "şahıs zamiri",
+   "example": "Verben und Personalpronomen",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.aussprache",
+   "de": "Aussprache",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "telaffuz",
+   "example": "Aussprache: Satzmelodie",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.satzmelodie",
+   "de": "Satzmelodie",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "cümle tonlaması",
+   "example": "Satzmelodie – Hören Sie zu und sprechen Sie nach.",
+   "pos": "noun",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.entschuldigung",
+   "de": "Entschuldigung",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "özür; affedersiniz",
+   "example": "Entschuldigung, wie heißt du?",
+   "pos": "noun",
+   "section": 3
+  },
+  {
+   "id": "k1.w.sein",
+   "de": "sein",
+   "tr": "olmak",
+   "example": "Ich bin Ben. Wer bist du?",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.markieren",
+   "de": "markieren",
+   "tr": "işaretlemek",
+   "example": "Markieren Sie ich, du und Sie.",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.ergaenzen",
+   "de": "ergänzen",
+   "tr": "tamamlamak",
+   "example": "Ergänzen Sie die Lücken.",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.passen",
+   "de": "passen",
+   "tr": "uymak",
+   "example": "Was passt: ich, du oder Sie?",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.spielen",
+   "de": "spielen",
+   "tr": "oynamak, canlandırmak",
+   "example": "Schreiben und spielen Sie Dialoge.",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.schreiben",
+   "de": "schreiben",
+   "tr": "yazmak",
+   "example": "Schreiben und spielen Sie Dialoge.",
+   "pos": "verb",
+   "section": 3
+  },
+  {
+   "id": "k1.w.du",
+   "de": "du",
+   "tr": "sen (samimi hitap)",
+   "example": "Wer bist du?",
+   "pos": "other",
+   "section": 3,
+   "tags": [
+    "pronomen"
+   ]
+  },
+  {
+   "id": "k1.w.wer",
+   "de": "wer",
+   "tr": "kim",
+   "example": "Und wer bist du?",
+   "pos": "other",
+   "section": 3,
+   "tags": [
+    "fragewort"
+   ]
+  },
+  {
+   "id": "k1.w.oder",
+   "de": "oder",
+   "tr": "veya",
+   "example": "Sie oder du?",
+   "pos": "other",
+   "section": 3
+  },
+  {
+   "id": "k1.w.ah",
+   "de": "Ah",
+   "tr": "Aa, ha (anlama ünlemi)",
+   "example": "Ah, Sie sind Herr Bieber!",
+   "pos": "other",
+   "section": 3
+  },
+  {
+   "id": "k1.w.laendername",
+   "de": "Ländername",
+   "gender": "der",
+   "plural": "-n",
+   "tr": "ülke adı",
+   "example": "Ländernamen – Welche kennen Sie?",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.name",
+   "de": "Name",
+   "gender": "der",
+   "plural": "-n",
+   "tr": "ad, isim",
+   "example": "Name – Land – Stadt",
+   "pos": "noun",
+   "section": 4
+  },
+  {
+   "id": "k1.w.land",
+   "de": "Land",
+   "gender": "das",
+   "plural": "Länder",
+   "tr": "ülke",
+   "example": "Herkunft (Land)",
+   "pos": "noun",
+   "section": 4
+  },
+  {
+   "id": "k1.w.stadt",
+   "de": "Stadt",
+   "gender": "die",
+   "plural": "Städte",
+   "tr": "şehir",
+   "example": "Länder- und Städtenamen im Kurs",
+   "pos": "noun",
+   "section": 4
+  },
+  {
+   "id": "k1.w.person",
+   "de": "Person",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "kişi",
+   "example": "Woher kommen die Personen?",
+   "pos": "noun",
+   "section": 4
+  },
+  {
+   "id": "k1.w.kommen",
+   "de": "kommen",
+   "tr": "gelmek",
+   "example": "Ich komme aus Syrien, aus Tartus.",
+   "pos": "verb",
+   "section": 4
+  },
+  {
+   "id": "k1.w.kennen",
+   "de": "kennen",
+   "tr": "bilmek, tanımak",
+   "example": "Welche kennen Sie?",
+   "pos": "verb",
+   "section": 4
+  },
+  {
+   "id": "k1.w.sammeln",
+   "de": "sammeln",
+   "tr": "toplamak",
+   "example": "Sammeln Sie.",
+   "pos": "verb",
+   "section": 4
+  },
+  {
+   "id": "k1.w.woher",
+   "de": "woher",
+   "tr": "nereden",
+   "example": "Woher kommst du?",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "fragewort"
+   ]
+  },
+  {
+   "id": "k1.w.welche",
+   "de": "welche",
+   "tr": "hangileri",
+   "example": "Welche kennen Sie?",
+   "pos": "other",
+   "section": 4
+  },
+  {
+   "id": "k1.w.usa",
+   "de": "USA",
+   "gender": "die",
+   "plural": "(nur Pl.)",
+   "tr": "ABD",
+   "example": "Er kommt aus den USA.",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.aegypten",
+   "de": "Ägypten",
+   "tr": "Mısır",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.nigeria",
+   "de": "Nigeria",
+   "tr": "Nijerya",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.marokko",
+   "de": "Marokko",
+   "tr": "Fas",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.china",
+   "de": "China",
+   "tr": "Çin",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.kenia",
+   "de": "Kenia",
+   "tr": "Kenya",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.italien",
+   "de": "Italien",
+   "tr": "İtalya",
+   "example": "Ich komme aus Italien.",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.spanien",
+   "de": "Spanien",
+   "tr": "İspanya",
+   "example": "Das ist Herr Puente aus Spanien.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "länder"
+   ],
+   "plural": "Sg."
+  },
+  {
+   "id": "k1.w.mali",
+   "de": "Mali",
+   "tr": "Mali",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.bulgarien",
+   "de": "Bulgarien",
+   "tr": "Bulgaristan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.polen",
+   "de": "Polen",
+   "tr": "Polonya",
+   "example": "Dana kommt aus Polen.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "länder"
+   ],
+   "plural": "Sg."
+  },
+  {
+   "id": "k1.w.rumaenien",
+   "de": "Rumänien",
+   "tr": "Romanya",
+   "example": "Ich komme aus Rumänien, aus Deva.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "länder"
+   ],
+   "plural": "Sg."
+  },
+  {
+   "id": "k1.w.ukraine",
+   "de": "Ukraine",
+   "gender": "die",
+   "plural": "—",
+   "tr": "Ukrayna",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.libanon",
+   "de": "Libanon",
+   "gender": "der",
+   "plural": "—",
+   "tr": "Lübnan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.tuerkei",
+   "de": "Türkei",
+   "gender": "die",
+   "plural": "—",
+   "tr": "Türkiye",
+   "example": "Ich komme aus der Türkei.",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.deutschland",
+   "de": "Deutschland",
+   "tr": "Almanya",
+   "example": "Sie wohnt jetzt in Deutschland.",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.algerien",
+   "de": "Algerien",
+   "tr": "Cezayir",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.oesterreich",
+   "de": "Österreich",
+   "tr": "Avusturya",
+   "example": "Ich wohne in Österreich.",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.griechenland",
+   "de": "Griechenland",
+   "tr": "Yunanistan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.schweiz",
+   "de": "Schweiz",
+   "gender": "die",
+   "plural": "—",
+   "tr": "İsviçre",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.serbien",
+   "de": "Serbien",
+   "tr": "Sırbistan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.russland",
+   "de": "Russland",
+   "tr": "Rusya",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.chile",
+   "de": "Chile",
+   "tr": "Şili",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.ungarn",
+   "de": "Ungarn",
+   "tr": "Macaristan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.brasilien",
+   "de": "Brasilien",
+   "tr": "Brezilya",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.kroatien",
+   "de": "Kroatien",
+   "tr": "Hırvatistan",
+   "pos": "noun",
+   "section": 4,
+   "tags": [
+    "länder"
+   ]
+  },
+  {
+   "id": "k1.w.syrien",
+   "de": "Syrien",
+   "tr": "Suriye",
+   "example": "Ich komme aus Syrien, aus Tartus.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "länder"
+   ],
+   "plural": "Sg."
+  },
+  {
+   "id": "k1.w.indien",
+   "de": "Indien",
+   "tr": "Hindistan",
+   "example": "I-n-d … Indien!",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "länder"
+   ],
+   "plural": "Sg."
+  },
+  {
+   "id": "k1.w.deva",
+   "de": "Deva",
+   "tr": "Deva (Romanya'da şehir)",
+   "example": "Ich komme aus Rumänien, aus Deva.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.lublin",
+   "de": "Lublin",
+   "tr": "Lublin (Polonya'da şehir)",
+   "example": "Ich komme aus Lublin. Das ist in Polen.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.chennai",
+   "de": "Chennai",
+   "tr": "Chennai (Hindistan'da şehir)",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.tartus",
+   "de": "Tartus",
+   "tr": "Tartus (Suriye'de şehir)",
+   "example": "Ich komme aus Syrien, aus Tartus.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.chicago",
+   "de": "Chicago",
+   "tr": "Chicago (ABD'de şehir)",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.istanbul",
+   "de": "Istanbul",
+   "tr": "İstanbul",
+   "example": "Ich komme aus Istanbul, und du?",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.ankara",
+   "de": "Ankara",
+   "tr": "Ankara",
+   "example": "Aus Ankara.",
+   "pos": "other",
+   "section": 4,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.musik",
+   "de": "Musik",
+   "gender": "die",
+   "plural": "—",
+   "tr": "müzik",
+   "example": "Buchstabieren mit Musik",
+   "pos": "noun",
+   "section": 5
+  },
+  {
+   "id": "k1.w.ratespiel",
+   "de": "Ratespiel",
+   "gender": "das",
+   "plural": "-e",
+   "tr": "tahmin oyunu",
+   "example": "Ratespiel – Buchstabieren Sie Ländernamen.",
+   "pos": "noun",
+   "section": 5,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.buchstabieren",
+   "de": "buchstabieren",
+   "tr": "harf harf söylemek, hecelemek",
+   "example": "Buchstabieren Sie Ländernamen.",
+   "pos": "verb",
+   "section": 5
+  },
+  {
+   "id": "k1.w.singen",
+   "de": "singen",
+   "tr": "şarkı söylemek",
+   "example": "Hören Sie und singen Sie mit.",
+   "pos": "verb",
+   "section": 5
+  },
+  {
+   "id": "k1.w.waehlen",
+   "de": "wählen",
+   "tr": "seçmek",
+   "example": "Wählen Sie.",
+   "pos": "verb",
+   "section": 5
+  },
+  {
+   "id": "k1.w.raten",
+   "de": "raten",
+   "tr": "tahmin etmek",
+   "example": "Raten Sie.",
+   "pos": "verb",
+   "section": 5
+  },
+  {
+   "id": "k1.w.mit",
+   "de": "mit",
+   "tr": "ile",
+   "example": "Buchstabieren mit Musik",
+   "pos": "other",
+   "section": 5
+  },
+  {
+   "id": "k1.w.wohnen",
+   "de": "wohnen",
+   "tr": "oturmak, ikamet etmek",
+   "example": "Ich wohne jetzt in München-Pasing.",
+   "pos": "verb",
+   "section": 6
+  },
+  {
+   "id": "k1.w.notieren",
+   "de": "notieren",
+   "tr": "not etmek",
+   "example": "Notieren Sie die Namen.",
+   "pos": "verb",
+   "section": 6
+  },
+  {
+   "id": "k1.w.sagen",
+   "de": "sagen",
+   "tr": "söylemek",
+   "example": "Wer sagt das?",
+   "pos": "verb",
+   "section": 6
+  },
+  {
+   "id": "k1.w.wo",
+   "de": "wo",
+   "tr": "nerede",
+   "example": "Wo wohnst du jetzt?",
+   "pos": "other",
+   "section": 6,
+   "tags": [
+    "fragewort"
+   ]
+  },
+  {
+   "id": "k1.w.jetzt",
+   "de": "jetzt",
+   "tr": "şimdi",
+   "example": "Und wo wohnen Sie jetzt?",
+   "pos": "other",
+   "section": 6
+  },
+  {
+   "id": "k1.w.in",
+   "de": "in",
+   "tr": "-de, -da (yer)",
+   "example": "Ich wohne in München.",
+   "pos": "other",
+   "section": 6
+  },
+  {
+   "id": "k1.w.laut",
+   "de": "laut",
+   "tr": "yüksek sesle",
+   "example": "Lesen Sie die Dialoge laut.",
+   "pos": "other",
+   "section": 6
+  },
+  {
+   "id": "k1.w.muenchen",
+   "de": "München",
+   "tr": "Münih",
+   "example": "Ich wohne in München.",
+   "pos": "other",
+   "section": 6,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.berlin",
+   "de": "Berlin",
+   "tr": "Berlin",
+   "example": "Ich komme aus Berlin.",
+   "pos": "other",
+   "section": 6,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.leon",
+   "de": "León",
+   "tr": "León (İspanya'da şehir)",
+   "example": "Ich komme aus León, Spanien.",
+   "pos": "other",
+   "section": 6,
+   "tags": [
+    "städte"
+   ]
+  },
+  {
+   "id": "k1.w.text",
+   "de": "Text",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "metin",
+   "example": "Lesen Sie die Texte.",
+   "pos": "noun",
+   "section": 7,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.kursliste",
+   "de": "Kursliste",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "kurs listesi",
+   "example": "Machen Sie eine Kursliste.",
+   "pos": "noun",
+   "section": 7,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.vorstellen",
+   "de": "vorstellen",
+   "tr": "tanıtmak",
+   "example": "Fragen Sie drei Personen und stellen Sie sie vor.",
+   "pos": "verb",
+   "section": 7
+  },
+  {
+   "id": "k1.w.machen",
+   "de": "machen",
+   "tr": "yapmak",
+   "example": "Machen Sie eine Kursliste.",
+   "pos": "verb",
+   "section": 7
+  },
+  {
+   "id": "k1.w.er",
+   "de": "er",
+   "tr": "o (erkek)",
+   "example": "Das ist Pablo. Er kommt aus Spanien.",
+   "pos": "other",
+   "section": 7,
+   "tags": [
+    "pronomen"
+   ]
+  },
+  {
+   "id": "k1.w.sie",
+   "de": "sie",
+   "tr": "o (kadın)",
+   "example": "Das ist Dana. Sie ist aus Lublin.",
+   "pos": "other",
+   "section": 7,
+   "tags": [
+    "pronomen"
+   ]
+  },
+  {
+   "id": "k1.w.das",
+   "de": "das",
+   "tr": "bu, şu",
+   "example": "Das ist in Polen.",
+   "pos": "other",
+   "section": 7
+  },
+  {
+   "id": "k1.w.drei",
+   "de": "drei",
+   "tr": "üç",
+   "example": "3 drei",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.anmeldung",
+   "de": "Anmeldung",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "kayıt",
+   "example": "Anmeldung in der Firma",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.firma",
+   "de": "Firma",
+   "gender": "die",
+   "plural": "Firmen",
+   "tr": "şirket, firma",
+   "example": "Anmeldung in der Firma",
+   "pos": "noun",
+   "section": 8
+  },
+  {
+   "id": "k1.w.familienname",
+   "de": "Familienname",
+   "gender": "der",
+   "plural": "-n",
+   "tr": "soyadı",
+   "example": "Wie ist Ihr Familienname?",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.vorname",
+   "de": "Vorname",
+   "gender": "der",
+   "plural": "-n",
+   "tr": "ad (ilk isim)",
+   "example": "Und wie ist Ihr Vorname?",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.herkunft",
+   "de": "Herkunft",
+   "gender": "die",
+   "plural": "Herkünfte (selten)",
+   "tr": "köken, memleket",
+   "example": "Herkunft (Land)",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.adresse",
+   "de": "Adresse",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "adres",
+   "example": "Adresse: Straße/Hausnummer",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.strasse",
+   "de": "Straße",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "cadde, sokak",
+   "example": "Hier in München, Blumenstraße 4.",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.hausnummer",
+   "de": "Hausnummer",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "kapı numarası",
+   "example": "Straße/Hausnummer",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.postleitzahl",
+   "de": "Postleitzahl",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "posta kodu",
+   "example": "Wie ist Ihre Postleitzahl?",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.ort",
+   "de": "Ort",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "yer, yerleşim yeri",
+   "example": "Postleitzahl/Ort",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.telefon",
+   "de": "Telefon",
+   "gender": "das",
+   "plural": "-e",
+   "tr": "telefon",
+   "example": "Telefon: 089 63822392",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.telefonnummer",
+   "de": "Telefonnummer",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "telefon numarası",
+   "example": "Wie ist Ihre Telefonnummer?",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.formular",
+   "de": "Formular",
+   "gender": "das",
+   "plural": "-e",
+   "tr": "form",
+   "example": "Ergänzen Sie das Formular.",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.dienstleistung",
+   "de": "Dienstleistung",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "hizmet",
+   "example": "K&L – Dienstleistungen GmbH",
+   "pos": "noun",
+   "section": 8
+  },
+  {
+   "id": "k1.w.zahl",
+   "de": "Zahl",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "sayı",
+   "example": "Zahl und Wort von 0 bis 10",
+   "pos": "noun",
+   "section": 8
+  },
+  {
+   "id": "k1.w.wort",
+   "de": "Wort",
+   "gender": "das",
+   "plural": "Wörter",
+   "tr": "kelime",
+   "example": "Zahl und Wort von 0 bis 10",
+   "pos": "noun",
+   "section": 8
+  },
+  {
+   "id": "k1.w.zaehlen",
+   "de": "zählen",
+   "tr": "saymak",
+   "example": "Zählen Sie dann laut.",
+   "pos": "verb",
+   "section": 8
+  },
+  {
+   "id": "k1.w.danke",
+   "de": "Danke",
+   "tr": "Teşekkürler",
+   "example": "Danke, Frau Dumitru. Auf Wiedersehen.",
+   "pos": "phrase",
+   "section": 8
+  },
+  {
+   "id": "k1.w.bitte",
+   "de": "bitte",
+   "tr": "lütfen; rica ederim",
+   "example": "Wie schreibt man das, bitte?",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.hier",
+   "de": "hier",
+   "tr": "burada",
+   "example": "Hier in München, Blumenstraße 4.",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.ihr",
+   "de": "Ihr / Ihre",
+   "tr": "sizin (resmi; Ihr + der/das, Ihre + die)",
+   "example": "Wie ist Ihr Familienname? Wie ist Ihre Telefonnummer?",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.man",
+   "de": "man",
+   "tr": "insan, herkes (genel özne)",
+   "example": "Wie schreibt man das, bitte?",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.noch-einmal",
+   "de": "noch einmal",
+   "tr": "bir kez daha",
+   "example": "Hören Sie noch einmal.",
+   "pos": "phrase",
+   "section": 8
+  },
+  {
+   "id": "k1.w.null",
+   "de": "null",
+   "tr": "sıfır",
+   "example": "0 null",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.eins",
+   "de": "eins",
+   "tr": "bir",
+   "example": "1 eins",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.zwei",
+   "de": "zwei",
+   "tr": "iki",
+   "example": "2 zwei",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.vier",
+   "de": "vier",
+   "tr": "dört",
+   "example": "4 vier",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.fuenf",
+   "de": "fünf",
+   "tr": "beş",
+   "example": "5 fünf",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.sechs",
+   "de": "sechs",
+   "tr": "altı",
+   "example": "6 sechs",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.sieben",
+   "de": "sieben",
+   "tr": "yedi",
+   "example": "7 sieben",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.acht",
+   "de": "acht",
+   "tr": "sekiz",
+   "example": "8 acht",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.neun",
+   "de": "neun",
+   "tr": "dokuz",
+   "example": "9 neun",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.zehn",
+   "de": "zehn",
+   "tr": "on",
+   "example": "10 zehn",
+   "pos": "other",
+   "section": 8,
+   "tags": [
+    "zahlen"
+   ]
+  },
+  {
+   "id": "k1.w.frage",
+   "de": "Frage",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "soru",
+   "example": "Sammeln Sie drei Fragen und drei Antworten.",
+   "pos": "noun",
+   "section": 9
+  },
+  {
+   "id": "k1.w.antwort",
+   "de": "Antwort",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "cevap",
+   "example": "Fragen und Antworten",
+   "pos": "noun",
+   "section": 9
+  },
+  {
+   "id": "k1.w.w-frage",
+   "de": "W-Frage",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "soru kelimeli soru (W- ile başlayan)",
+   "example": "W-Fragen: Verb: Position 2",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.satz",
+   "de": "Satz",
+   "gender": "der",
+   "plural": "Sätze",
+   "tr": "cümle",
+   "example": "Lebende Sätze – Spielen Sie.",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.satzanfang",
+   "de": "Satzanfang",
+   "gender": "der",
+   "plural": "Satzanfänge",
+   "tr": "cümle başı",
+   "example": "Am Satzanfang schreibt man groß.",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.position",
+   "de": "Position",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "konum, yer",
+   "example": "Verb: Position 2",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.kontrolle",
+   "de": "Kontrolle",
+   "gender": "die",
+   "plural": "-n",
+   "tr": "kontrol",
+   "example": "Hören Sie zur Kontrolle.",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.bild",
+   "de": "Bild",
+   "gender": "das",
+   "plural": "-er",
+   "tr": "resim",
+   "example": "Spielen Sie Dialoge zu den Bildern.",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.wohnort",
+   "de": "Wohnort",
+   "gender": "der",
+   "plural": "-e",
+   "tr": "ikamet yeri, oturduğu yer",
+   "example": "Wohnort: …",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "formular"
+   ]
+  },
+  {
+   "id": "k1.w.vorhang",
+   "de": "Vorhang",
+   "gender": "der",
+   "plural": "Vorhänge",
+   "tr": "perde",
+   "example": "Vorhang auf!",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.fragewort",
+   "de": "Fragewort",
+   "gender": "das",
+   "plural": "Fragewörter",
+   "tr": "soru kelimesi",
+   "example": "Fragewörter: Wie? Wo? Woher? Wer?",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.praeposition",
+   "de": "Präposition",
+   "gender": "die",
+   "plural": "-en",
+   "tr": "edat",
+   "example": "Präpositionen: wohnen in, kommen aus",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.stehen",
+   "de": "stehen",
+   "tr": "durmak, bulunmak",
+   "example": "Wo steht das Verb?",
+   "pos": "verb",
+   "section": 9
+  },
+  {
+   "id": "k1.w.ja-richtig",
+   "de": "Ja, richtig.",
+   "tr": "Evet, doğru.",
+   "example": "Pablo, also P-a-b-l-o? – Ja, richtig.",
+   "pos": "phrase",
+   "section": 9
+  },
+  {
+   "id": "k1.w.also",
+   "de": "also",
+   "tr": "yani, demek ki",
+   "example": "Pablo, also P-a-b-l-o?",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.mein",
+   "de": "mein / meine",
+   "tr": "benim (mein + der/das, meine + die)",
+   "example": "Meine Telefonnummer ist …",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.gross",
+   "de": "groß",
+   "tr": "büyük",
+   "example": "Am Satzanfang schreibt man groß.",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.graefstrasse",
+   "de": "Gräfstraße",
+   "gender": "die",
+   "plural": "—",
+   "tr": "Gräf Caddesi (Münih'te bir cadde)",
+   "example": "Gräfstraße 10, in München.",
+   "pos": "noun",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.blumenstrasse",
+   "de": "Blumenstraße",
+   "gender": "die",
+   "plural": "—",
+   "tr": "Blumen Caddesi (Münih'te bir cadde)",
+   "example": "Hier in München, Blumenstraße 4.",
+   "pos": "noun",
+   "section": 8,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.die",
+   "de": "die",
+   "tr": "(çoğul tanımlığı) (fotoğraflar)",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.sich",
+   "de": "sich",
+   "tr": "kendim, kendin …",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.den",
+   "de": "den",
+   "tr": "-e",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.herzlich-willkommen-2",
+   "de": "herzlich willkommen",
+   "tr": "hoş geldiniz",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.im",
+   "de": "im",
+   "tr": "-de, … içinde (kursta)",
+   "pos": "other",
+   "section": 1
+  },
+  {
+   "id": "k1.w.der",
+   "de": "der",
+   "tr": "(tanımlık (eril)) (kurs)",
+   "pos": "other",
+   "section": 2
+  },
+  {
+   "id": "k1.w.erste",
+   "de": "erste",
+   "tr": "ilk, birinci",
+   "pos": "other",
+   "section": 2
+  },
+  {
+   "id": "k1.w.tschus",
+   "de": "tschüs",
+   "tr": "hoşça kal(ın)",
+   "pos": "other",
+   "section": 2
+  },
+  {
+   "id": "k1.w.ah-2",
+   "de": "ah",
+   "tr": "Aa!",
+   "pos": "other",
+   "section": 3
+  },
+  {
+   "id": "k1.w.was",
+   "de": "was",
+   "tr": "ne",
+   "pos": "other",
+   "section": 3
+  },
+  {
+   "id": "k1.w.fokus",
+   "de": "Fokus",
+   "tr": "odak",
+   "pos": "noun",
+   "gender": "der",
+   "plural": "Sg.",
+   "section": 3,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.zuhoren",
+   "de": "zuhören",
+   "tr": "dinlemek",
+   "pos": "other",
+   "section": 3
+  },
+  {
+   "id": "k1.w.dem",
+   "de": "dem",
+   "tr": "(tanımlık (eril))",
+   "pos": "other",
+   "section": 4
+  },
+  {
+   "id": "k1.w.frankreich",
+   "de": "Frankreich",
+   "tr": "Fransa",
+   "pos": "other",
+   "plural": "Sg.",
+   "section": 4
+  },
+  {
+   "id": "k1.w.irak",
+   "de": "Irak",
+   "tr": "Irak",
+   "pos": "noun",
+   "gender": "der",
+   "plural": "Sg.",
+   "section": 4
+  },
+  {
+   "id": "k1.w.stadtename",
+   "de": "Städtename",
+   "tr": "şehir adı",
+   "pos": "noun",
+   "gender": "der",
+   "plural": "-n",
+   "section": 4,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.mitlesen",
+   "de": "mitlesen",
+   "tr": "birlikte (takip ederek) okumak",
+   "pos": "other",
+   "section": 5
+  },
+  {
+   "id": "k1.w.abc",
+   "de": "Abc",
+   "tr": "alfabe, abece",
+   "pos": "noun",
+   "gender": "das",
+   "plural": "-s",
+   "section": 5,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.mitsprechen",
+   "de": "mitsprechen",
+   "tr": "birlikte söylemek",
+   "pos": "other",
+   "section": 5
+  },
+  {
+   "id": "k1.w.rhythmus",
+   "de": "Rhythmus",
+   "tr": "ritim",
+   "pos": "noun",
+   "gender": "der",
+   "plural": "Rhythmen",
+   "section": 5,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.form",
+   "de": "Form",
+   "tr": "biçim",
+   "pos": "noun",
+   "gender": "die",
+   "plural": "-en",
+   "section": 6,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.verbform",
+   "de": "Verbform",
+   "tr": "fiil biçimi",
+   "pos": "noun",
+   "gender": "die",
+   "plural": "-en",
+   "section": 6,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.ein",
+   "de": "ein",
+   "tr": "bir (bir liste)",
+   "pos": "other"
+  },
+  {
+   "id": "k1.w.danke-2",
+   "de": "danke",
+   "tr": "teşekkür ederim",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.ihr-2",
+   "de": "Ihr",
+   "tr": "sizin ((Ön) Adınız ne?)",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.bis",
+   "de": "bis",
+   "tr": "-e kadar (0’dan 10’a kadar)",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.dann",
+   "de": "dann",
+   "tr": "(ondan) sonra",
+   "pos": "other",
+   "section": 8
+  },
+  {
+   "id": "k1.w.kapitel",
+   "de": "Kapitel",
+   "tr": "bölüm",
+   "pos": "noun",
+   "gender": "das",
+   "plural": "-",
+   "section": 9,
+   "tags": [
+    "meta"
+   ]
+  },
+  {
+   "id": "k1.w.am",
+   "de": "am",
+   "tr": "-de (cümle başında)",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.grossschreiben",
+   "de": "großschreiben",
+   "tr": "büyük harfle yazmak",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.lebend",
+   "de": "lebend",
+   "tr": "canlı, hayatın içinden",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.ja",
+   "de": "ja",
+   "tr": "evet (Evet, doğru.)",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.mein-2",
+   "de": "mein",
+   "tr": "benim",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.richtig",
+   "de": "richtig",
+   "tr": "doğru (Evet, doğru!)",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.zur",
+   "de": "zur",
+   "tr": "-e, … için (kontrol için)",
+   "pos": "other",
+   "section": 9
+  },
+  {
+   "id": "k1.w.auf",
+   "de": "auf",
+   "tr": "açık; -in üzerinde (Vorhang auf: perde açılsın)",
+   "pos": "other"
+  },
+  {
+   "id": "k1.w.herkunftsland",
+   "de": "Herkunftsland",
+   "tr": "köken (geldiği ülke)",
+   "pos": "noun",
+   "gender": "das",
+   "plural": "\"-er"
+  },
+  {
+   "id": "k1.w.leicht",
+   "de": "leicht",
+   "tr": "kolay",
+   "pos": "other"
+  },
+  {
+   "id": "k1.w.lernen",
+   "de": "lernen",
+   "tr": "öğrenmek",
+   "pos": "other"
+  },
+  {
+   "id": "k1.w.sprache",
+   "de": "Sprache",
+   "tr": "dil",
+   "pos": "noun",
+   "gender": "die",
+   "plural": "-n"
+  },
+  {
+   "id": "k1.w.zu",
+   "de": "zu",
+   "tr": "-e (ait), … için, (resimlere ait)",
+   "pos": "other"
+  }
+ ],
+ "dialogs": [
+  {
+   "id": "k1.d.begruessung1",
+   "title": "1b Begrüßungen – Foto A",
+   "track": "1.02",
+   "lines": [
+    {
+     "who": "Sprecherin",
+     "de": "Guten Tag! Das ist Herr Puente aus Spanien. Und das ist Frau Dumitru aus Rumänien.",
+     "tr": "İyi günler! Bu, İspanya'dan Bay Puente. Bu da Romanya'dan Bayan Dumitru."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Herzlich willkommen! Guten Tag, Frau Dumitru!",
+     "tr": "Hoş geldiniz! İyi günler, Bayan Dumitru!"
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Sprecherin",
+     "de": "Guten Tag! Das ist Herr Puente aus Spanien. Und das ist Frau Dumitru aus Rumänien.",
+     "tr": "İyi günler! Bu, İspanya'dan Bay Puente. Bu da Romanya'dan Bayan Dumitru."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Herzlich willkommen! Guten Tag, Frau Dumitru!",
+     "tr": "Hoş geldiniz! İyi günler, Bayan Dumitru!"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.begruessung2",
+   "title": "1b Begrüßungen – Foto D",
+   "track": "1.03",
+   "lines": [
+    {
+     "who": "Pablo",
+     "de": "Hallo, Eleni.",
+     "tr": "Merhaba Eleni."
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Pablo.",
+     "tr": "Merhaba Pablo."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Pablo",
+     "de": "Hallo, Eleni.",
+     "tr": "Merhaba Eleni."
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Pablo.",
+     "tr": "Merhaba Pablo."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.kurstag",
+   "title": "2a Der erste Kurstag",
+   "track": "1.04",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, ich heiße Pablo Puente. Wie heißen Sie?",
+     "tr": "İyi günler, benim adım Pablo Puente. Sizin adınız ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Guten Tag, ich heiße Maria Canale.",
+     "tr": "İyi günler, benim adım Maria Canale."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, ich heiße Anne Dahms. Wie heißen Sie?",
+     "tr": "İyi günler, benim adım Anne Dahms. Sizin adınız ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Guten Tag, ich heiße Eleni Dumitru.",
+     "tr": "İyi günler, benim adım Eleni Dumitru."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Pablo Puente",
+     "de": "Guten Tag, ich heiße Pablo Puente. Wie heißen Sie?",
+     "tr": "İyi günler, benim adım Pablo Puente. Sizin adınız ne?"
+    },
+    {
+     "who": "Maria Canale",
+     "de": "Guten Tag, ich heiße Maria Canale.",
+     "tr": "İyi günler, benim adım Maria Canale."
+    },
+    {
+     "who": "Anne Dahms",
+     "de": "Guten Tag, ich heiße Anne Dahms. Wie heißen Sie?",
+     "tr": "İyi günler, benim adım Anne Dahms. Sizin adınız ne?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Guten Tag, ich heiße Eleni Dumitru.",
+     "tr": "İyi günler, benim adım Eleni Dumitru."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.gruesse",
+   "title": "2b Grüße – Hören Sie und sprechen Sie nach",
+   "track": "1.05",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Guten Morgen.",
+     "tr": "Günaydın."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag.",
+     "tr": "İyi günler."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Abend.",
+     "tr": "İyi akşamlar."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Tschüs.",
+     "tr": "Hoşça kal."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Auf Wiedersehen.",
+     "tr": "Görüşmek üzere / Hoşça kalın."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Sprecher",
+     "de": "Guten Morgen.",
+     "tr": "Günaydın."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag.",
+     "tr": "İyi günler."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Abend.",
+     "tr": "İyi akşamlar."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Tschüs.",
+     "tr": "Hoşça kal."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Auf Wiedersehen.",
+     "tr": "Görüşmek üzere / Hoşça kalın."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.sie1",
+   "title": "3a Dialog 1 – Sie",
+   "track": "1.06",
+   "lines": [
+    {
+     "who": "Gabriele Bauer",
+     "de": "Guten Tag. Ich heiße Gabriele Bauer. Und Sie?",
+     "tr": "İyi günler. Benim adım Gabriele Bauer. Ya siz?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Guten Tag. Ich heiße Pablo Puente.",
+     "tr": "İyi günler. Benim adım Pablo Puente."
+    },
+    {
+     "who": "Gabriele Bauer",
+     "de": "Und Sie? Wie heißen Sie?",
+     "tr": "Ya siz? Sizin adınız ne?"
+    },
+    {
+     "who": "Ben Bieber",
+     "de": "Ben Bieber.",
+     "tr": "Ben Bieber."
+    },
+    {
+     "who": "Gabriele Bauer",
+     "de": "Ah, Sie sind Herr Bieber!",
+     "tr": "Aa, siz Bay Bieber'siniz!"
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Gabriele Bauer",
+     "de": "Guten Tag. Ich heiße Gabriele Bauer. Und Sie?",
+     "tr": "İyi günler. Benim adım Gabriele Bauer. Ya siz?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Guten Tag. Ich heiße Pablo Puente.",
+     "tr": "İyi günler. Benim adım Pablo Puente."
+    },
+    {
+     "who": "Gabriele Bauer",
+     "de": "Und Sie? Wie heißen Sie?",
+     "tr": "Ya siz? Sizin adınız ne?"
+    },
+    {
+     "who": "Ben Bieber",
+     "de": "Ben Bieber.",
+     "tr": "Ben Bieber."
+    },
+    {
+     "who": "Gabriele Bauer",
+     "de": "Ah, Sie sind Herr Bieber!",
+     "tr": "Aa, siz Bay Bieber'siniz!"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.du2",
+   "title": "3a Dialog 2 – du",
+   "track": "1.07",
+   "lines": [
+    {
+     "who": "Ben",
+     "de": "Hallo, ich bin Ben. Und wer bist du?",
+     "tr": "Merhaba, ben Ben. Peki sen kimsin?"
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Ben! Ich heiße Eleni.",
+     "tr": "Merhaba Ben! Benim adım Eleni."
+    },
+    {
+     "who": "Maria",
+     "de": "Hallo, Eleni. Ich bin Maria.",
+     "tr": "Merhaba Eleni. Ben Maria."
+    },
+    {
+     "who": "Eleni",
+     "de": "Entschuldigung, wie heißt du?",
+     "tr": "Affedersin, adın ne?"
+    },
+    {
+     "who": "Maria",
+     "de": "Maria.",
+     "tr": "Maria."
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Maria.",
+     "tr": "Merhaba Maria."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Ben",
+     "de": "Hallo, ich bin Ben. Und wer bist du?",
+     "tr": "Merhaba, ben Ben. Peki sen kimsin?"
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Ben! Ich heiße Eleni.",
+     "tr": "Merhaba Ben! Benim adım Eleni."
+    },
+    {
+     "who": "Maria",
+     "de": "Hallo, Eleni. Ich bin Maria.",
+     "tr": "Merhaba Eleni. Ben Maria."
+    },
+    {
+     "who": "Eleni",
+     "de": "Entschuldigung, wie heißt du?",
+     "tr": "Affedersin, adın ne?"
+    },
+    {
+     "who": "Maria",
+     "de": "Maria.",
+     "tr": "Maria."
+    },
+    {
+     "who": "Eleni",
+     "de": "Hallo, Maria.",
+     "tr": "Merhaba Maria."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.laender",
+   "title": "4c Länder- und Städtenamen im Kurs",
+   "lines": [
+    {
+     "who": "Kursteilnehmer A",
+     "de": "Ich komme aus Syrien, aus Tartus. Woher kommst du?",
+     "tr": "Ben Suriye'den, Tartus'tan geliyorum. Sen nereden geliyorsun?"
+    },
+    {
+     "who": "Kursteilnehmer B",
+     "de": "Ich komme aus Istanbul, und du?",
+     "tr": "Ben İstanbul'dan geliyorum, ya sen?"
+    },
+    {
+     "who": "Kursteilnehmer C",
+     "de": "Aus Ankara.",
+     "tr": "Ankara'dan."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.alphabet",
+   "title": "5a Das Alphabet – Buchstabieren mit Musik",
+   "track": "1.14",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "A, B, C, D, E, F, G",
+     "tr": "Okunuşu: a, be, tse, de, e, ef, ge"
+    },
+    {
+     "who": "Sprecher",
+     "de": "H, I, J, K, L, M, N, O, P",
+     "tr": "Okunuşu: ha, i, yot, ka, el, em, en, o, pe"
+    },
+    {
+     "who": "Sprecher",
+     "de": "Q, R, S, T, U, V, W",
+     "tr": "Okunuşu: ku, er, es, te, u, fau, ve"
+    },
+    {
+     "who": "Sprecher",
+     "de": "X, Y, Z",
+     "tr": "Okunuşu: iks, üpsilon, tset"
+    },
+    {
+     "who": "Sprecher",
+     "de": "Ä, Ö, Ü, ß",
+     "tr": "Okunuşu: e (ä), ö, ü, es-tset (eszett)"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.wohnen1",
+   "title": "6b Dialog 1 – Wo wohnen Sie jetzt?",
+   "track": "1.16",
+   "lines": [
+    {
+     "who": "Frau Dahms",
+     "de": "Woher kommen Sie, Frau Dumitru?",
+     "tr": "Nereden geliyorsunuz, Bayan Dumitru?"
+    },
+    {
+     "who": "Frau Dumitru",
+     "de": "Ich komme aus Rumänien, aus Deva.",
+     "tr": "Romanya'dan, Deva'dan geliyorum."
+    },
+    {
+     "who": "Frau Dahms",
+     "de": "Und wo wohnen Sie jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Frau Dumitru",
+     "de": "Ich wohne in München. Und Sie, Frau Dahms?",
+     "tr": "Münih'te oturuyorum. Ya siz, Bayan Dahms?"
+    },
+    {
+     "who": "Frau Dahms",
+     "de": "Ich komme aus Berlin und wohne jetzt in München-Pasing.",
+     "tr": "Berlin'den geliyorum ve şimdi Münih-Pasing'de oturuyorum."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Frau Dahms",
+     "de": "Woher kommen Sie, Frau Dumitru?",
+     "tr": "Nereden geliyorsunuz, Bayan Dumitru?"
+    },
+    {
+     "who": "Frau Dumitru",
+     "de": "Ich komme aus Rumänien, aus Deva.",
+     "tr": "Romanya'dan, Deva'dan geliyorum."
+    },
+    {
+     "who": "Frau Dahms",
+     "de": "Und wo wohnen Sie jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Frau Dumitru",
+     "de": "Ich wohne in München. Und Sie, Frau Dahms?",
+     "tr": "Münih'te oturuyorum. Ya siz, Bayan Dahms?"
+    },
+    {
+     "who": "Frau Dahms",
+     "de": "Ich komme aus Berlin und wohne jetzt in München-Pasing.",
+     "tr": "Berlin'den geliyorum ve şimdi Münih-Pasing'de oturuyorum."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.wohnen2",
+   "title": "6b Dialog 2 – Wo wohnst du jetzt?",
+   "track": "1.17",
+   "lines": [
+    {
+     "who": "Pablo",
+     "de": "Hallo, ich bin Pablo, und wer bist du?",
+     "tr": "Merhaba, ben Pablo, sen kimsin?"
+    },
+    {
+     "who": "Dana",
+     "de": "Ich heiße Dana. Ich komme aus Lublin. Das ist in Polen. Woher kommst du?",
+     "tr": "Benim adım Dana. Lublin'den geliyorum. Polonya'da. Sen nereden geliyorsun?"
+    },
+    {
+     "who": "Pablo",
+     "de": "Ich komme aus León, Spanien.",
+     "tr": "León'dan geliyorum, İspanya."
+    },
+    {
+     "who": "Dana",
+     "de": "Und wo wohnst du jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsun?"
+    },
+    {
+     "who": "Pablo",
+     "de": "In München.",
+     "tr": "Münih'te."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Pablo",
+     "de": "Hallo, ich bin Pablo und wer bist du?",
+     "tr": "Merhaba, ben Pablo, sen kimsin?"
+    },
+    {
+     "who": "Dana",
+     "de": "Ich heiße Dana. Ich komme aus Lublin. Das ist in Polen. Woher kommst du?",
+     "tr": "Benim adım Dana. Lublin'den geliyorum. Polonya'da. Sen nereden geliyorsun?"
+    },
+    {
+     "who": "Pablo",
+     "de": "Ich komme aus León, Spanien.",
+     "tr": "León'dan geliyorum, İspanya."
+    },
+    {
+     "who": "Dana",
+     "de": "Und wo wohnst du jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsun?"
+    },
+    {
+     "who": "Pablo",
+     "de": "In München.",
+     "tr": "Münih'te."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.vorstellen",
+   "title": "7a Das ist Pablo, das ist Dana (Video K1-2)",
+   "lines": [
+    {
+     "who": "Sprecherin",
+     "de": "Das ist Pablo. Er kommt aus Spanien, aus León. Er wohnt jetzt in München.",
+     "tr": "Bu Pablo. O İspanya'dan, León'dan geliyor. Şimdi Münih'te oturuyor."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Das ist Dana. Sie ist aus Lublin. Das ist in Polen. Sie wohnt jetzt in Deutschland.",
+     "tr": "Bu Dana. O Lublin'den. Polonya'da. Şimdi Almanya'da oturuyor."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.anmeldung",
+   "title": "8b Anmeldung in der Firma",
+   "track": "1.18",
+   "lines": [
+    {
+     "who": "Mitarbeiterin",
+     "de": "Guten Tag.",
+     "tr": "İyi günler."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Guten Tag, setzen Sie sich bitte. Einen Augenblick … Wie heißen Sie bitte?",
+     "tr": "İyi günler, lütfen oturun. Bir saniye… Adınız nedir lütfen?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Eleni Dumitru.",
+     "tr": "Eleni Dumitru."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Wie ist Ihr Familienname?",
+     "tr": "Soyadınız nedir?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Dumitru.",
+     "tr": "Dumitru."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Wie schreibt man das, bitte?",
+     "tr": "Bu nasıl yazılıyor, lütfen?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "D-u-m-i-t-r-u.",
+     "tr": "D-u-m-i-t-r-u."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Und wie ist Ihr Vorname?",
+     "tr": "Peki adınız nedir?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Eleni: E-l-e-n-i.",
+     "tr": "Eleni: E-l-e-n-i."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Woher kommen Sie?",
+     "tr": "Nereden geliyorsunuz?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Aus Rumänien.",
+     "tr": "Romanya'dan."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Wo wohnen Sie?",
+     "tr": "Nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Hier in München, Blumenstraße 4.",
+     "tr": "Burada, Münih'te, Blumenstraße 4."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Wie ist Ihre Postleitzahl?",
+     "tr": "Posta kodunuz nedir?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "80331.",
+     "tr": "80331."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Wie ist Ihre Telefonnummer?",
+     "tr": "Telefon numaranız nedir?"
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "089 63822392",
+     "tr": "089 63822392"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Danke, Frau Dumitru. Auf Wiedersehen.",
+     "tr": "Teşekkürler Bayan Dumitru. Hoşça kalın."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Auf Wiedersehen.",
+     "tr": "Hoşça kalın."
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie ist Ihr Familienname?",
+     "tr": "Soyadınız nedir?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Dumitru.",
+     "tr": "Dumitru."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie schreibt man das, bitte?",
+     "tr": "Bu nasıl yazılıyor, lütfen?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "D-u-m-i-t-r-u.",
+     "tr": "D-u-m-i-t-r-u."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Und wie ist Ihr Vorname?",
+     "tr": "Peki adınız nedir?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Eleni: E-l-e-n-i.",
+     "tr": "Eleni: E-l-e-n-i."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Woher kommen Sie?",
+     "tr": "Nereden geliyorsunuz?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Aus Rumänien.",
+     "tr": "Romanya'dan."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wo wohnen Sie?",
+     "tr": "Nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Hier in München, Blumenstraße 4.",
+     "tr": "Burada Münih'te, Blumenstraße 4."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie ist Ihre Postleitzahl?",
+     "tr": "Posta kodunuz nedir?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "80331.",
+     "tr": "80331."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie ist Ihre Telefonnummer?",
+     "tr": "Telefon numaranız nedir?"
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "089 63822392.",
+     "tr": "089 63822392."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Danke, Frau Dumitru. Auf Wiedersehen.",
+     "tr": "Teşekkürler, Bayan Dumitru. Görüşmek üzere."
+    },
+    {
+     "who": "Eleni Dumitru",
+     "de": "Auf Wiedersehen.",
+     "tr": "Görüşmek üzere."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.zahlen",
+   "title": "8c Zahl und Wort von 0 bis 10",
+   "track": "1.19",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "0 null, 1 eins, 2 zwei, 3 drei, 4 vier, 5 fünf",
+     "tr": "0 sıfır, 1 bir, 2 iki, 3 üç, 4 dört, 5 beş"
+    },
+    {
+     "who": "Sprecher",
+     "de": "6 sechs, 7 sieben, 8 acht, 9 neun, 10 zehn",
+     "tr": "6 altı, 7 yedi, 8 sekiz, 9 dokuz, 10 on"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.anmeldung2",
+   "title": "9d Anmeldung – Pablo Puente",
+   "track": "1.20",
+   "lines": [
+    {
+     "who": "Pablo Puente",
+     "de": "Guten Tag.",
+     "tr": "İyi günler."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Guten Tag, wie heißen Sie, bitte?",
+     "tr": "İyi günler, adınız nedir, lütfen?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Pablo, Pablo Puente.",
+     "tr": "Pablo, Pablo Puente."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Pablo, also P-a-b-l-o?",
+     "tr": "Pablo, yani P-a-b-l-o?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Ja, richtig.",
+     "tr": "Evet, doğru."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Und wie ist Ihr Familienname?",
+     "tr": "Peki soyadınız nedir?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Puente. Ich buchstabiere: P-u-e-n-t-e.",
+     "tr": "Puente. Harf harf söylüyorum: P-u-e-n-t-e."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wo wohnen Sie?",
+     "tr": "Nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Gräfstraße 10, in München.",
+     "tr": "Gräfstraße 10, Münih'te."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie ist Ihre Telefonnummer?",
+     "tr": "Telefon numaranız nedir?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Meine Telefonnummer ist …",
+     "tr": "Telefon numaram …"
+    }
+   ],
+   "linesBook": [
+    {
+     "who": "Pablo Puente",
+     "de": "Guten Tag.",
+     "tr": "İyi günler."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Guten Tag, wie heißen Sie, bitte?",
+     "tr": "İyi günler, adınız nedir, lütfen?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Pablo, Pablo Puente.",
+     "tr": "Pablo, Pablo Puente."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Pablo, also P-a-b-l-o?",
+     "tr": "Pablo, yani P-a-b-l-o?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Ja, richtig.",
+     "tr": "Evet, doğru."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Und wie ist Ihr Familienname?",
+     "tr": "Peki soyadınız nedir?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Puente. Ich buchstabiere: P-u-e-n-t-e.",
+     "tr": "Puente. Harf harf söylüyorum: P-u-e-n-t-e."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wo wohnen Sie?",
+     "tr": "Nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Gräfstraße 10, in München.",
+     "tr": "Gräfstraße 10, Münih'te."
+    },
+    {
+     "who": "Mitarbeiterin",
+     "de": "Wie ist Ihre Telefonnummer?",
+     "tr": "Telefon numaranız nedir?"
+    },
+    {
+     "who": "Pablo Puente",
+     "de": "Meine Telefonnummer ist …",
+     "tr": "Telefon numaram …"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_08",
+   "title": "Aufgabe 3e",
+   "track": "1.08",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Ich heiße Anne Dahms.",
+     "tr": "Benim adım Anne Dahms."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Wie heißen Sie?",
+     "tr": "Adınız nedir?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich heiße Ben.",
+     "tr": "Benim adım Ben."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Wer bist du?",
+     "tr": "Sen kimsin?"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_09",
+   "title": "Aufgabe 4b",
+   "track": "1.09",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag, ich bin Eleni Dumitru. Ich komme aus Deva in Rumänien. Ich wohne jetzt in Deutschland und lerne Deutsch.",
+     "tr": "İyi günler, ben Eleni Dumitru. Romanya'dan, Deva'dan geliyorum. Şimdi Almanya'da oturuyorum ve Almanca öğreniyorum."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_10",
+   "title": "Aufgabe 4b – 2",
+   "track": "1.10",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Mein Name ist Nowak, Dana Nowak. Ich bin aus Lublin. Lublin ist in Polen.",
+     "tr": "Adım Nowak, Dana Nowak. Lublin'denim. Lublin Polonya'da."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_11",
+   "title": "Aufgabe 4b – 3",
+   "track": "1.11",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag, ich heiße Mazaad, Amir Mazaad. Ich komme aus Tartus in Syrien.",
+     "tr": "İyi günler, adım Mazaad, Amir Mazaad. Suriye'den, Tartus'tan geliyorum."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_12",
+   "title": "Aufgabe 4b – 4",
+   "track": "1.12",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Hallo, ich heiße Ben Bieber. Ich komme aus den USA. Meine Heimatstadt heißt Chicago.",
+     "tr": "Merhaba, adım Ben Bieber. ABD'den geliyorum. Memleketim Chicago."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_13",
+   "title": "Aufgabe 4b – 5",
+   "track": "1.13",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Mein Name ist Noor Goyal. Ich komme aus Indien, aus Chennai.",
+     "tr": "Adım Noor Goyal. Hindistan'dan, Chennai'den geliyorum."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_15",
+   "title": "Aufgabe 5b",
+   "track": "1.15",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "abcd efgh ijkl mnop qrst uvwx yz",
+     "tr": "a b c d e f g h i j k l m n o p q r s t u v w x y z"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_21",
+   "title": "Übung 1",
+   "track": "1.21",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Herr Puente, Frau Dumitru:",
+     "tr": "Bay Puente, Bayan Dumitru:"
+    },
+    {
+     "who": "Sprecher",
+     "de": "Herzlich willkommen!",
+     "tr": "Hoş geldiniz!"
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag, Frau Dumitru.",
+     "tr": "İyi günler Bayan Dumitru."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Guten Tag, Herr Puente.",
+     "tr": "İyi günler Bay Puente."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Hallo, Eleni.",
+     "tr": "Merhaba Eleni."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Hallo, Pablo.",
+     "tr": "Merhaba Pablo."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_22",
+   "title": "Übung 2a",
+   "track": "1.22",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, ich heiße Pablo Puente. Wie heißen Sie?",
+     "tr": "İyi günler, benim adım Pablo Puente. Sizin adınız nedir?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Guten Tag, ich heiße Anne Dahms.",
+     "tr": "İyi günler, benim adım Anne Dahms."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Guten Abend, ich heiße Pablo Puente. Wie heißen Sie?",
+     "tr": "İyi akşamlar, benim adım Pablo Puente. Sizin adınız nedir?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Guten Abend, ich heiße Maria Canale.",
+     "tr": "İyi akşamlar, benim adım Maria Canale."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_23",
+   "title": "Übung 3",
+   "track": "1.23",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag. Ich heiße Bieber. Und Sie?",
+     "tr": "İyi günler. Benim adım Bieber. Ya siz?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich heiße Koslowski.",
+     "tr": "Benim adım Koslowski."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Ah, Sie sind Herr Koslowski!",
+     "tr": "Ah, siz Bay Koslowski'siniz!"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Hallo, ich bin Eleni. Und wer bist du?",
+     "tr": "Merhaba, ben Eleni. Peki sen kimsin?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Hallo, Eleni! Ich bin Maria.",
+     "tr": "Merhaba Eleni! Ben Maria."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Entschuldigung, wie heißt du?",
+     "tr": "Pardon, senin adın ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Maria.",
+     "tr": "Maria."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_24",
+   "title": "Übung 4b",
+   "track": "1.24",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Ich heiße Sandra und du?",
+     "tr": "Benim adım Sandra, ya senin?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Noor Goyal.",
+     "tr": "Noor Goyal."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Woher kommst du?",
+     "tr": "Nereden geliyorsun?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich komme aus Indien, aus Chennai.",
+     "tr": "Hindistan'dan, Chennai'den geliyorum."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Wie heißt du?",
+     "tr": "Senin adın ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ramil Agra.",
+     "tr": "Ramil Agra."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Woher kommst du?",
+     "tr": "Nereden geliyorsun?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Aus Ankara.",
+     "tr": "Ankara'dan."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Wie heißen Sie?",
+     "tr": "Adınız nedir?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Theo Scheer.",
+     "tr": "Theo Scheer."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Und woher kommen Sie, Herr Scheer?",
+     "tr": "Peki siz nereden geliyorsunuz Bay Scheer?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Aus Berlin.",
+     "tr": "Berlin'den."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_25",
+   "title": "Übung 5a",
+   "track": "1.25",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Mein Familienname ist Döring.",
+     "tr": "Soyadım Döring."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Wie schreibt man das?",
+     "tr": "Bu nasıl yazılıyor?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "D-ö-r-i-n-g.",
+     "tr": "D-ö-r-i-n-g."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Döring?",
+     "tr": "Döring mi?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Ja, Döring.",
+     "tr": "Evet, Döring."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, Frau … äh …",
+     "tr": "İyi günler Bayan… şey…"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Pringsheim. Ich heiße Dora Pringsheim.",
+     "tr": "Pringsheim. Benim adım Dora Pringsheim."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Oh, buchstabieren Sie das bitte.",
+     "tr": "Oh, lütfen heceler misiniz?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "P-r-i-n-g-s-h-e-i-m.",
+     "tr": "P-r-i-n-g-s-h-e-i-m."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Pringsheim, Dora Pringsheim?",
+     "tr": "Pringsheim, Dora Pringsheim mi?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Ja richtig.",
+     "tr": "Evet, doğru."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, mein Name ist Michaela Michalak.",
+     "tr": "İyi günler, adım Michaela Michalak."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Michaela Micha… ? Wie schreibt man das, bitte?",
+     "tr": "Michaela Micha…? Bu nasıl yazılıyor, lütfen?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "M-i-c-h-a-l-a-k.",
+     "tr": "M-i-c-h-a-l-a-k."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Danke, Frau Michalak.",
+     "tr": "Teşekkürler Bayan Michalak."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, Herr Müller.",
+     "tr": "İyi günler Bay Müller."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Müller? Mein Name ist Mühlbauer.",
+     "tr": "Müller mi? Benim adım Mühlbauer."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Oh Entschuldigung. Wie schreibt man das?",
+     "tr": "Oh, özür dilerim. Bu nasıl yazılıyor?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "M-ü-h-l-b-a-u-e-r.",
+     "tr": "M-ü-h-l-b-a-u-e-r."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_26",
+   "title": "Übung 5b",
+   "track": "1.26",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "Österreich die Schweiz Deutschland die Türkei Rumänien Syrien",
+     "tr": "Avusturya, İsviçre, Almanya, Türkiye, Romanya, Suriye"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_27",
+   "title": "Übung 6a",
+   "track": "1.27",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Guten Tag, Frau Dahms, woher kommen Sie?",
+     "tr": "İyi günler Bayan Dahms, nereden geliyorsunuz?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich komme aus Deutschland, aus Berlin.",
+     "tr": "Almanya'dan, Berlin'den geliyorum."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Und wo wohnen Sie jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsunuz?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich wohne in München. Und Sie, Frau Nowak?",
+     "tr": "Münih'te oturuyorum. Ya siz Bayan Nowak?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Ich komme aus Polen und wohne in München.",
+     "tr": "Polonya'dan geliyorum ve Münih'te oturuyorum."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_28",
+   "title": "Übung 6b",
+   "track": "1.28",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Hallo, ich bin Ben. Und wer bist du?",
+     "tr": "Merhaba, ben Ben. Peki sen kimsin?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ich heiße Eleni. Ich komme aus Deva. Das ist in Rumänien. Woher kommst du?",
+     "tr": "Benim adım Eleni. Deva'dan geliyorum. Orası Romanya'da. Sen nereden geliyorsun?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Ich komme aus Chicago, USA.",
+     "tr": "Chicago'dan, ABD'den geliyorum."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Und wo wohnst du jetzt?",
+     "tr": "Peki şimdi nerede oturuyorsun?"
+    },
+    {
+     "who": "Sprecher A",
+     "de": "In München.",
+     "tr": "Münih'te."
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_29",
+   "title": "Übung 8c",
+   "track": "1.29",
+   "lines": [
+    {
+     "who": "Sprecher",
+     "de": "null – eins – zwei – drei vier – fünf – sechs – sieben acht – neun – zehn",
+     "tr": "sıfır – bir – iki – üç – dört – beş – altı – yedi – sekiz – dokuz – on"
+    }
+   ]
+  },
+  {
+   "id": "k1.d.t1_30",
+   "title": "Übung 8d",
+   "track": "1.30",
+   "lines": [
+    {
+     "who": "Sprecher A",
+     "de": "Wie ist deine Telefonnummer?",
+     "tr": "Telefon numaran ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Meine Nummer ist 06203 81654.",
+     "tr": "Numaram 06203 81654."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "06203 81654.",
+     "tr": "06203 81654."
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ja, richtig.",
+     "tr": "Evet, doğru."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Wie ist deine Telefonnummer?",
+     "tr": "Telefon numaran ne?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "01978 9032457.",
+     "tr": "01978 9032457."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "01978 9022457?",
+     "tr": "01978 9022457 mi?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Nein 01978 9032457.",
+     "tr": "Hayır, 01978 9032457."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Name?",
+     "tr": "İsim?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "Ranga Joschar.",
+     "tr": "Ranga Joschar."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Telefon?",
+     "tr": "Telefon?"
+    },
+    {
+     "who": "Sprecher B",
+     "de": "030 7819632.",
+     "tr": "030 7819632."
+    },
+    {
+     "who": "Sprecher A",
+     "de": "Danke.",
+     "tr": "Teşekkürler."
+    },
+    {
+     "who": "Sprecher",
+     "de": "Ruf mich bitte an. Meine Telefonnummer ist 09123 485760.",
+     "tr": "Lütfen beni ara. Telefon numaram 09123 485760."
+    }
+   ]
+  }
+ ],
+ "redemittel": [
+  "Guten Morgen.",
+  "Guten Tag.",
+  "Guten Abend.",
+  "Hallo.",
+  "Tschüs.",
+  "Auf Wiedersehen.",
+  "Herzlich willkommen!",
+  "Guten Tag, Frau Güler. / Guten Tag, Herr Sabatini.",
+  "Ich heiße …",
+  "Ich bin …",
+  "Wie heißen Sie? / Wie heißt du?",
+  "Wer bist du?",
+  "Und Sie? / Und du?",
+  "Das ist Herr Puente aus Spanien.",
+  "Das ist Pablo. Er kommt aus Spanien.",
+  "Das ist Dana. Sie wohnt jetzt in Deutschland.",
+  "Woher kommen Sie? / Woher kommst du?",
+  "Ich komme aus … (aus Spanien, aus der Türkei, aus Ankara)",
+  "Wo wohnen Sie? / Wo wohnst du jetzt?",
+  "Ich wohne in … (in München, in Österreich)",
+  "Wie ist Ihr Familienname? / Wie ist Ihr Vorname?",
+  "Wie schreibt man das, bitte?",
+  "Ich buchstabiere: P-u-e-n-t-e.",
+  "Wie ist Ihre Postleitzahl? – 80331.",
+  "Wie ist Ihre Telefonnummer? – 089 63822392.",
+  "Meine Telefonnummer ist …",
+  "Entschuldigung, wie heißt du?",
+  "Ja, richtig.",
+  "Danke, Frau Dumitru. Auf Wiedersehen.",
+  "null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn",
+  "Guten Morgen. – Guten Morgen.",
+  "Guten Tag. – Guten Tag.",
+  "Guten Abend. – Guten Abend.",
+  "Hallo. – Hallo.",
+  "Auf Wiedersehen. – Auf Wiedersehen.",
+  "Tschüs. – Tschüs.",
+  "Wie heißt du? – Ich heiße …",
+  "Wie heißen Sie?",
+  "Wer bist du? – Ich heiße …",
+  "Wer sind Sie?",
+  "Wie ist dein / Ihr Vorname? – Mein Vorname ist ...",
+  "Wie ist dein / Ihr Familienname? – Mein Familienname ist ...",
+  "Woher kommst du? – Ich komme aus ...",
+  "Woher kommen Sie?",
+  "Wo wohnst du? – Ich wohne in ...",
+  "Wo wohnen Sie?",
+  "Wo wohnst du? – Hier in Bonn.",
+  "Wo wohnen Sie? – In München",
+  "Wie ist Ihre Adresse? – Grafstraße 3.",
+  "Wie ist Ihre Postleitzahl? – 80807.",
+  "Wohnst du in ...? – Ja.",
+  "Wohnen Sie in ...? – Nein, ich wohne in ...",
+  "Danke. – Bitte.",
+  "Wie buchstabiert man das? – E-l-e-n-i.",
+  "Wer ist das? – Das ist ...",
+  "Woher kommt er / sie? – Er / Sie kommt aus ...",
+  "Wie ist deine / Ihre Postleitzahl? – Meine Postleitzahl ist ...",
+  "Wie ist deine / Ihre Telefonnummer? – Meine Telefonnummer ist ..."
+ ],
+ "stations": [
+  {
+   "id": "lernen",
+   "title": "Lernen",
+   "steps": [
+    {
+     "id": "k1.l.01",
+     "type": "words",
+     "title": "Begrüßungen – Wörter",
+     "subtitle": "Abschnitt 1 · Ses 1.2–1.3",
+     "words": [
+      "k1.w.begruessung",
+      "k1.w.guten-tag",
+      "k1.w.hallo",
+      "k1.w.herzlich-willkommen",
+      "k1.w.herr",
+      "k1.w.frau",
+      "k1.w.das-ist",
+      "k1.w.aus",
+      "k1.w.und",
+      "k1.w.tag",
+      "k1.w.kurs",
+      "k1.w.foto",
+      "k1.w.sprechblase",
+      "k1.w.begruessen",
+      "k1.w.ansehen",
+      "k1.w.ankreuzen",
+      "k1.w.zuordnen"
+     ]
+    },
+    {
+     "id": "k1.l.02",
+     "type": "dialog",
+     "title": "Begrüßung – Foto A (resmi)",
+     "subtitle": "Abschnitt 1 · Ses 1.2",
+     "dialog": "k1.d.begruessung1",
+     "redemittel": [
+      "Guten Tag!",
+      "Das ist Herr … aus …",
+      "Herzlich willkommen!"
+     ],
+     "note": "belirsiz: Kitapta 4 konuşma balonu 1.2–1.3 ses parçalarına toplu bağlı; balon 1+4 → Foto A (1.2), balon 2+3 → Foto D (1.3) eşlemesi tahmindir."
+    },
+    {
+     "id": "k1.l.03",
+     "type": "dialog",
+     "title": "Begrüßung – Foto D (samimi)",
+     "subtitle": "Abschnitt 1 · Ses 1.3",
+     "dialog": "k1.d.begruessung2",
+     "redemittel": [
+      "Hallo, Eleni.",
+      "Hallo, Pablo."
+     ]
+    },
+    {
+     "id": "k1.l.04",
+     "type": "choice",
+     "title": "Resmi mi, samimi mi?",
+     "subtitle": "Abschnitt 1",
+     "prompt": "Kursta yeni tanıştığın Bayan Güler'i resmi şekilde nasıl selamlarsın?",
+     "options": [
+      {
+       "text": "Guten Tag, Frau Güler.",
+       "correct": true
+      },
+      {
+       "text": "Hallo, Güler.",
+       "correct": false,
+       "feedback": "Hallo samimi bir selamdır; resmi ortamda Guten Tag + Frau/Herr + soyadı kullanılır."
+      },
+      {
+       "text": "Guten Tag, Herr Güler.",
+       "correct": false,
+       "feedback": "Herr erkekler için; kadınlara Frau denir."
+      }
+     ],
+     "feedbackOk": "Doğru! Resmi selamlama: Guten Tag + Frau/Herr + soyadı.",
+     "feedbackBad": "Resmi selamlama: Guten Tag, Frau Güler. Kadınlar için Frau, erkekler için Herr; Hallo ise arkadaşlar arasında kullanılır."
+    },
+    {
+     "id": "k1.l.05",
+     "type": "choice",
+     "title": "Herzlich willkommen!",
+     "subtitle": "Abschnitt 1",
+     "prompt": "\"Herzlich willkommen!\" ne demek?",
+     "options": [
+      {
+       "text": "Hoş geldiniz!",
+       "correct": true
+      },
+      {
+       "text": "Görüşmek üzere!",
+       "correct": false,
+       "feedback": "Görüşmek üzere = Auf Wiedersehen."
+      },
+      {
+       "text": "Günaydın!",
+       "correct": false,
+       "feedback": "Günaydın = Guten Morgen."
+      }
+     ],
+     "feedbackOk": "Doğru! Herzlich willkommen = Hoş geldiniz.",
+     "feedbackBad": "Herzlich willkommen = Hoş geldiniz. Auf Wiedersehen = görüşmek üzere, Guten Morgen = günaydın."
+    },
+    {
+     "id": "k1.l.06",
+     "type": "words",
+     "title": "Der erste Kurstag – Wörter",
+     "subtitle": "Abschnitt 2 · Ses 1.4–1.5",
+     "words": [
+      "k1.w.kurstag",
+      "k1.w.heissen",
+      "k1.w.ich",
+      "k1.w.sie-formal",
+      "k1.w.wie",
+      "k1.w.guten-morgen",
+      "k1.w.guten-abend",
+      "k1.w.tschues",
+      "k1.w.auf-wiedersehen",
+      "k1.w.morgen",
+      "k1.w.abend",
+      "k1.w.tageszeit",
+      "k1.w.dialog",
+      "k1.w.lesen",
+      "k1.w.hoeren",
+      "k1.w.sprechen",
+      "k1.w.nachsprechen",
+      "k1.w.fragen",
+      "k1.w.antworten",
+      "k1.w.variieren"
+     ]
+    },
+    {
+     "id": "k1.l.07",
+     "type": "dialog",
+     "title": "Der erste Kurstag",
+     "subtitle": "Abschnitt 2 · Ses 1.4",
+     "dialog": "k1.d.kurstag",
+     "redemittel": [
+      "Ich heiße …",
+      "Wie heißen Sie?"
+     ]
+    },
+    {
+     "id": "k1.l.08",
+     "type": "dialog",
+     "title": "Grüße: Morgen, Tag, Abend",
+     "subtitle": "Abschnitt 2 · Ses 1.5",
+     "dialog": "k1.d.gruesse",
+     "redemittel": [
+      "Guten Morgen.",
+      "Guten Tag.",
+      "Guten Abend.",
+      "Tschüs.",
+      "Auf Wiedersehen."
+     ]
+    },
+    {
+     "id": "k1.l.09",
+     "type": "fill",
+     "title": "Tageszeiten",
+     "subtitle": "Abschnitt 2",
+     "prompt": "Günün zamanına göre selamı tamamla.",
+     "text": "Sabah: Guten ___. Öğlen/gündüz: Guten ___. Akşam: Guten ___. Resmi veda: Auf ___.",
+     "answers": [
+      "Morgen",
+      "Tag",
+      "Abend",
+      "Wiedersehen"
+     ]
+    },
+    {
+     "id": "k1.l.10",
+     "type": "choice",
+     "title": "Tschüs oder Auf Wiedersehen?",
+     "subtitle": "Abschnitt 2",
+     "prompt": "Kurstan sonra arkadaşın Pablo'ya samimi şekilde veda ediyorsun. Ne dersin?",
+     "options": [
+      {
+       "text": "Tschüs, Pablo.",
+       "correct": true
+      },
+      {
+       "text": "Guten Tag, Pablo.",
+       "correct": false,
+       "feedback": "Guten Tag selamlamadır, veda değil."
+      },
+      {
+       "text": "Herzlich willkommen, Pablo.",
+       "correct": false,
+       "feedback": "Herzlich willkommen = hoş geldin; karşılama sözü."
+      }
+     ],
+     "feedbackOk": "Doğru! Tschüs samimi veda; Auf Wiedersehen daha resmi.",
+     "feedbackBad": "Samimi veda: Tschüs. Resmi veda: Auf Wiedersehen. Guten Tag ve Herzlich willkommen karşılama sözleridir."
+    },
+    {
+     "id": "k1.l.11",
+     "type": "words",
+     "title": "Ich, du und Sie – Wörter",
+     "subtitle": "Abschnitt 3 · Ses 1.6–1.8",
+     "words": [
+      "k1.w.du",
+      "k1.w.sein",
+      "k1.w.wer",
+      "k1.w.entschuldigung",
+      "k1.w.ah",
+      "k1.w.oder",
+      "k1.w.verb",
+      "k1.w.personalpronomen",
+      "k1.w.tabelle",
+      "k1.w.luecke",
+      "k1.w.beispiel",
+      "k1.w.aussprache",
+      "k1.w.satzmelodie",
+      "k1.w.markieren",
+      "k1.w.ergaenzen",
+      "k1.w.passen",
+      "k1.w.schreiben",
+      "k1.w.spielen"
+     ]
+    },
+    {
+     "id": "k1.l.12",
+     "type": "dialog",
+     "title": "Dialog 1 – Sie (resmi)",
+     "subtitle": "Abschnitt 3 · Ses 1.6",
+     "dialog": "k1.d.sie1",
+     "redemittel": [
+      "Ich heiße … Und Sie?",
+      "Wie heißen Sie?",
+      "Sie sind Herr …"
+     ]
+    },
+    {
+     "id": "k1.l.13",
+     "type": "dialog",
+     "title": "Dialog 2 – du (samimi)",
+     "subtitle": "Abschnitt 3 · Ses 1.7",
+     "dialog": "k1.d.du2",
+     "redemittel": [
+      "Ich bin … Und wer bist du?",
+      "Entschuldigung, wie heißt du?"
+     ]
+    },
+    {
+     "id": "k1.l.14",
+     "type": "grammar",
+     "title": "Fokus: heißen und sein",
+     "subtitle": "Abschnitt 3 · 3d",
+     "tables": [
+      {
+       "title": "Verben und Personalpronomen: heißen / sein",
+       "columns": [
+        "",
+        "heißen",
+        "sein"
+       ],
+       "rows": [
+        [
+         "ich",
+         "heiße",
+         "bin"
+        ],
+        [
+         "du",
+         "heißt",
+         "bist"
+        ],
+        [
+         "Sie",
+         "heißen",
+         "sind"
+        ]
+       ]
+      }
+     ],
+     "rule": "du = sen (arkadaş, aile, çocuk, kurs arkadaşı). Sie = siz (resmi: tanımadığın yetişkinler, iş yeri). Sie her zaman büyük harfle yazılır. Fiil kişiye göre ek alır: ich heiße / du heißt / Sie heißen; ich bin / du bist / Sie sind.",
+     "examples": [
+      "Ich heiße Gabriele Bauer. Und Sie?",
+      "Wie heißen Sie?",
+      "Hallo, ich bin Ben. Und wer bist du?",
+      "Entschuldigung, wie heißt du?",
+      "Ah, Sie sind Herr Bieber!"
+     ]
+    },
+    {
+     "id": "k1.l.15",
+     "type": "fill",
+     "title": "ich, du oder Sie?",
+     "subtitle": "Abschnitt 3 · 3c",
+     "prompt": "Boşluklara ich, du veya Sie yaz (cümle başında büyük harf!).",
+     "text": "Wie heißen ___? – ___ heiße Pablo Puente. Wer bist ___? – ___ bin Eleni.",
+     "answers": [
+      "Sie",
+      "Ich",
+      "du",
+      "Ich"
+     ]
+    },
+    {
+     "id": "k1.l.16",
+     "type": "shadow",
+     "title": "Aussprache: Satzmelodie",
+     "subtitle": "Abschnitt 3 · Ses 1.8",
+     "note": "Dört cümlede de ses sonda düşer (↘). W-sorularında da düşen tonlama kullanılır.",
+     "sentences": [
+      {
+       "de": "Ich heiße Anne Dahms.",
+       "tr": "Benim adım Anne Dahms.",
+       "track": "1.08"
+      },
+      {
+       "de": "Ich heiße Ben.",
+       "tr": "Benim adım Ben.",
+       "track": "1.08"
+      },
+      {
+       "de": "Wie heißen Sie?",
+       "tr": "Sizin adınız ne?",
+       "track": "1.08"
+      },
+      {
+       "de": "Wer bist du?",
+       "tr": "Sen kimsin?",
+       "track": "1.08"
+      }
+     ]
+    },
+    {
+     "id": "k1.l.17",
+     "type": "write",
+     "title": "Und Sie? Sie oder du?",
+     "subtitle": "Abschnitt 3",
+     "prompt": "İki kısa diyalog yaz: biri resmi (Sie), biri samimi (du). Her diyalogda selam + isim sorma + cevap olsun.",
+     "minWords": 12,
+     "points": [
+      "Guten Tag. Wie heißen Sie? – Ich heiße …",
+      "Hallo, ich bin … Und wer bist du? – Ich heiße …"
+     ],
+     "sample": "Guten Tag. Ich heiße Yusuf. Und Sie? – Guten Tag. Ich heiße Anne Dahms. / Hallo, ich bin Yusuf. Wer bist du? – Hallo, Yusuf! Ich bin Eleni."
+    },
+    {
+     "id": "k1.l.18",
+     "type": "words",
+     "title": "Woher kommst du? – Länder",
+     "subtitle": "Abschnitt 4 · Ses 1.9–1.13",
+     "words": [
+      "k1.w.kommen",
+      "k1.w.woher",
+      "k1.w.land",
+      "k1.w.stadt",
+      "k1.w.name",
+      "k1.w.laendername",
+      "k1.w.person",
+      "k1.w.kennen",
+      "k1.w.welche",
+      "k1.w.sammeln",
+      "k1.w.tuerkei",
+      "k1.w.deutschland",
+      "k1.w.oesterreich",
+      "k1.w.schweiz",
+      "k1.w.spanien",
+      "k1.w.rumaenien",
+      "k1.w.polen",
+      "k1.w.syrien",
+      "k1.w.indien",
+      "k1.w.usa",
+      "k1.w.italien",
+      "k1.w.griechenland",
+      "k1.w.russland",
+      "k1.w.ukraine",
+      "k1.w.libanon",
+      "k1.w.aegypten",
+      "k1.w.marokko",
+      "k1.w.algerien",
+      "k1.w.nigeria",
+      "k1.w.kenia",
+      "k1.w.mali",
+      "k1.w.china",
+      "k1.w.bulgarien",
+      "k1.w.serbien",
+      "k1.w.kroatien",
+      "k1.w.ungarn",
+      "k1.w.brasilien",
+      "k1.w.chile",
+      "k1.w.deva",
+      "k1.w.lublin",
+      "k1.w.chennai",
+      "k1.w.tartus",
+      "k1.w.chicago",
+      "k1.w.istanbul",
+      "k1.w.ankara"
+     ]
+    },
+    {
+     "id": "k1.l.19",
+     "type": "dialog",
+     "title": "Länder- und Städtenamen im Kurs",
+     "subtitle": "Abschnitt 4 · 4c",
+     "dialog": "k1.d.laender",
+     "redemittel": [
+      "Ich komme aus …, aus …",
+      "Woher kommst du?",
+      "Und du?"
+     ]
+    },
+    {
+     "id": "k1.l.20",
+     "type": "match",
+     "title": "Wer kommt woher?",
+     "subtitle": "Abschnitt 4 · Ses 1.9–1.13",
+     "prompt": "Kişileri ülke ve şehirleriyle eşleştir.",
+     "pairs": [
+      [
+       "Eleni Dumitru",
+       "Rumänien – Deva"
+      ],
+      [
+       "Dana Nowak",
+       "Polen – Lublin"
+      ],
+      [
+       "Amir Mazaad",
+       "Syrien – Tartus"
+      ],
+      [
+       "Ben Bieber",
+       "die USA – Chicago"
+      ],
+      [
+       "Noor Goyal",
+       "Indien – Chennai"
+      ]
+     ],
+     "note": "belirsiz: Kitapta yalnızca Eleni → Rumänien/Deva işaretli. Dana → Lublin/Polen (6b) ve Ben → USA (7b) kitabın başka yerlerinden; Amir → Syrien/Tartus ve Noor → Indien/Chennai ses kaydına dayanır, kitap metninden çıkarımdır."
+    },
+    {
+     "id": "k1.l.21",
+     "type": "choice",
+     "title": "Artikelli ülkeler",
+     "subtitle": "Abschnitt 4",
+     "prompt": "Hangi ülke adı Almancada artikel (die/der) ile kullanılır?",
+     "options": [
+      {
+       "text": "Türkei",
+       "correct": true
+      },
+      {
+       "text": "Spanien",
+       "correct": false,
+       "feedback": "Spanien artikelsizdir: Ich komme aus Spanien."
+      },
+      {
+       "text": "Polen",
+       "correct": false,
+       "feedback": "Polen artikelsizdir: Ich komme aus Polen."
+      }
+     ],
+     "feedbackOk": "Doğru! die Türkei, die Schweiz, die Ukraine, die USA, der Libanon artikel alır. Ülkelerin çoğu artikelsizdir.",
+     "feedbackBad": "Artikelli ülkeler azdır: die Türkei, die Schweiz, die Ukraine, die USA, der Libanon. Spanien, Polen, Deutschland gibi çoğu ülke artikelsizdir."
+    },
+    {
+     "id": "k1.l.22",
+     "type": "fill",
+     "title": "aus … / aus der …",
+     "subtitle": "Abschnitt 4",
+     "prompt": "Boşlukları tamamla: kommen + aus; artikelli ülkede aus der.",
+     "text": "Ich komme ___ Spanien. Ich komme aus ___ Türkei. Ich komme aus ___ Schweiz.",
+     "answers": [
+      "aus",
+      "der",
+      "der"
+     ]
+    },
+    {
+     "id": "k1.l.23",
+     "type": "words",
+     "title": "Buchstabieren – Wörter",
+     "subtitle": "Abschnitt 5 · Ses 1.14–1.15",
+     "words": [
+      "k1.w.buchstabieren",
+      "k1.w.musik",
+      "k1.w.mit",
+      "k1.w.singen",
+      "k1.w.waehlen",
+      "k1.w.ratespiel",
+      "k1.w.raten"
+     ]
+    },
+    {
+     "id": "k1.l.24",
+     "type": "dialog",
+     "title": "Das Alphabet",
+     "subtitle": "Abschnitt 5 · Ses 1.14",
+     "dialog": "k1.d.alphabet",
+     "redemittel": [
+      "Wie schreibt man das?",
+      "Ich buchstabiere: …"
+     ],
+     "note": "Ses 1.15 aynı alfabenin şarkı versiyonudur (Hören Sie und singen Sie mit)."
+    },
+    {
+     "id": "k1.l.25",
+     "type": "choice",
+     "title": "Harfler nasıl okunur?",
+     "subtitle": "Abschnitt 5",
+     "prompt": "Almanca alfabede V harfi nasıl okunur?",
+     "options": [
+      {
+       "text": "fau",
+       "correct": true
+      },
+      {
+       "text": "ve",
+       "correct": false,
+       "feedback": "ve okunuşu W harfine aittir."
+      },
+      {
+       "text": "vi",
+       "correct": false,
+       "feedback": "vi İngilizce okunuştur; Almancada V = fau."
+      }
+     ],
+     "feedbackOk": "Doğru! V = fau, W = ve. Türkçeden farklı olan diğerleri: J = yot, Y = üpsilon, Z = tset, C = tse.",
+     "feedbackBad": "Almancada V = fau, W = ve. Dikkat: J = yot, Y = üpsilon, Z = tset, C = tse, Q = ku."
+    },
+    {
+     "id": "k1.l.26",
+     "type": "fill",
+     "title": "Ratespiel: Ländernamen",
+     "subtitle": "Abschnitt 5 · 5b",
+     "prompt": "Harf harf verilen ülkeyi yaz.",
+     "text": "I-n-d-i-e-n → ___. T-ü-r-k-e-i → die ___. P-o-l-e-n → ___.",
+     "answers": [
+      "Indien",
+      "Türkei",
+      "Polen"
+     ]
+    },
+    {
+     "id": "k1.l.27",
+     "type": "words",
+     "title": "Wo wohnst du jetzt? – Wörter",
+     "subtitle": "Abschnitt 6 · Ses 1.16–1.17",
+     "words": [
+      "k1.w.wohnen",
+      "k1.w.wo",
+      "k1.w.in",
+      "k1.w.jetzt",
+      "k1.w.muenchen",
+      "k1.w.berlin",
+      "k1.w.leon",
+      "k1.w.notieren",
+      "k1.w.sagen",
+      "k1.w.laut"
+     ]
+    },
+    {
+     "id": "k1.l.28",
+     "type": "dialog",
+     "title": "Dialog 1 – Frau Dahms und Frau Dumitru",
+     "subtitle": "Abschnitt 6 · Ses 1.16",
+     "dialog": "k1.d.wohnen1",
+     "redemittel": [
+      "Woher kommen Sie?",
+      "Ich komme aus …, aus …",
+      "Und wo wohnen Sie jetzt?",
+      "Ich wohne in …"
+     ]
+    },
+    {
+     "id": "k1.l.29",
+     "type": "dialog",
+     "title": "Dialog 2 – Pablo und Dana",
+     "subtitle": "Abschnitt 6 · Ses 1.17",
+     "dialog": "k1.d.wohnen2",
+     "redemittel": [
+      "Woher kommst du?",
+      "Und wo wohnst du jetzt?",
+      "Das ist in Polen."
+     ]
+    },
+    {
+     "id": "k1.l.30",
+     "type": "grammar",
+     "title": "Fokus: kommen und wohnen",
+     "subtitle": "Abschnitt 6 · 6c",
+     "tables": [
+      {
+       "title": "Verben und Personalpronomen: kommen / wohnen",
+       "columns": [
+        "",
+        "kommen",
+        "wohnen"
+       ],
+       "rows": [
+        [
+         "ich",
+         "komme",
+         "wohne"
+        ],
+        [
+         "du",
+         "kommst",
+         "wohnst"
+        ],
+        [
+         "Sie",
+         "kommen",
+         "wohnen"
+        ]
+       ]
+      },
+      {
+       "title": "Präpositionen",
+       "columns": [
+        "Frage",
+        "Verb + Präposition",
+        "Beispiel"
+       ],
+       "rows": [
+        [
+         "Woher?",
+         "kommen aus",
+         "aus Spanien, aus der Türkei, aus Ankara"
+        ],
+        [
+         "Wo?",
+         "wohnen in",
+         "in München, in Österreich"
+        ]
+       ]
+      }
+     ],
+     "rule": "Düzenli fiil ekleri: ich -e, du -st, Sie -en. Woher? (nereden) → kommen aus; Wo? (nerede) → wohnen in.",
+     "examples": [
+      "Woher kommen Sie, Frau Dumitru? – Ich komme aus Rumänien, aus Deva.",
+      "Und wo wohnen Sie jetzt? – Ich wohne in München.",
+      "Woher kommst du? – Ich komme aus León, Spanien.",
+      "Und wo wohnst du jetzt? – In München."
+     ]
+    },
+    {
+     "id": "k1.l.31",
+     "type": "fill",
+     "title": "kommen / wohnen",
+     "subtitle": "Abschnitt 6",
+     "prompt": "Fiilleri doğru ekle tamamla.",
+     "text": "Ich ___ aus Rumänien. Ich ___ jetzt in München. Und wo ___ du jetzt? Woher ___ Sie?",
+     "answers": [
+      "komme",
+      "wohne",
+      "wohnst",
+      "kommen"
+     ]
+    },
+    {
+     "id": "k1.l.32",
+     "type": "choice",
+     "title": "aus oder in?",
+     "subtitle": "Abschnitt 6",
+     "prompt": "\"Wo wohnst du?\" sorusuna doğru cevap hangisi?",
+     "options": [
+      {
+       "text": "Ich wohne in München.",
+       "correct": true
+      },
+      {
+       "text": "Ich wohne aus München.",
+       "correct": false,
+       "feedback": "aus = nereden (kommen ile). wohnen her zaman in ile kullanılır."
+      },
+      {
+       "text": "Ich komme in München.",
+       "correct": false,
+       "feedback": "kommen + aus, wohnen + in. Wo? sorusu wohnen in ister."
+      }
+     ],
+     "feedbackOk": "Doğru! Wo? → wohnen in. Woher? → kommen aus.",
+     "feedbackBad": "Kural: Wo? → wohnen in (Ich wohne in München). Woher? → kommen aus (Ich komme aus Spanien)."
+    },
+    {
+     "id": "k1.l.33",
+     "type": "words",
+     "title": "Das ist Pablo, das ist Dana – Wörter",
+     "subtitle": "Abschnitt 7 · Video K1-2",
+     "words": [
+      "k1.w.er",
+      "k1.w.sie",
+      "k1.w.das",
+      "k1.w.vorstellen",
+      "k1.w.text",
+      "k1.w.kursliste",
+      "k1.w.machen"
+     ]
+    },
+    {
+     "id": "k1.l.34",
+     "type": "dialog",
+     "title": "Das ist Pablo, das ist Dana",
+     "subtitle": "Abschnitt 7 · Video K1-2",
+     "dialog": "k1.d.vorstellen",
+     "redemittel": [
+      "Das ist …",
+      "Er kommt aus …",
+      "Sie wohnt jetzt in …"
+     ],
+     "note": "Bu metnin kitapta ses parçası yok (video K1-2); uygulama TTS kullanabilir."
+    },
+    {
+     "id": "k1.l.35",
+     "type": "grammar",
+     "title": "Fokus: er und sie",
+     "subtitle": "Abschnitt 7 · 7a",
+     "tables": [
+      {
+       "title": "er / sie: Verben und Personalpronomen",
+       "columns": [
+        "",
+        "kommen",
+        "wohnen",
+        "heißen",
+        "sein"
+       ],
+       "rows": [
+        [
+         "er (Pablo) / sie (Dana)",
+         "kommt",
+         "wohnt",
+         "heißt",
+         "ist"
+        ]
+       ]
+      },
+      {
+       "title": "Verben und Personalpronomen (Übersicht)",
+       "columns": [
+        "",
+        "sein",
+        "kommen",
+        "wohnen",
+        "heißen"
+       ],
+       "rows": [
+        [
+         "ich",
+         "bin",
+         "komme",
+         "wohne",
+         "heiße"
+        ],
+        [
+         "du",
+         "bist",
+         "kommst",
+         "wohnst",
+         "heißt"
+        ],
+        [
+         "er/sie",
+         "ist",
+         "kommt",
+         "wohnt",
+         "heißt"
+        ],
+        [
+         "Sie",
+         "sind",
+         "kommen",
+         "wohnen",
+         "heißen"
+        ]
+       ]
+      }
+     ],
+     "rule": "Birini tanıtırken er (o, erkek) ve sie (o, kadın) kullanılır; fiil -t eki alır: er kommt, sie wohnt, er heißt. sein düzensizdir: er/sie ist. Dikkat: küçük harfli sie = o (kadın), büyük harfli Sie = siz.",
+     "examples": [
+      "Pablo kommt aus Spanien. → Er wohnt in München.",
+      "Eleni kommt aus Deva. → Sie wohnt in München.",
+      "Wie heißt er? Er heißt Pablo."
+     ]
+    },
+    {
+     "id": "k1.l.36",
+     "type": "fill",
+     "title": "Ergänzen Sie die Sätze",
+     "subtitle": "Abschnitt 7 · 7b",
+     "prompt": "Boşlukları fiil veya zamirle (Er/Sie) tamamla.",
+     "text": "Das ist Ben. Er ___ aus den USA. ___ wohnt jetzt in München. Das ist Eleni. Sie ___ in Deutschland. ___ kommt aus Rumänien.",
+     "answers": [
+      "kommt",
+      "Er",
+      "wohnt",
+      "Sie"
+     ]
+    },
+    {
+     "id": "k1.l.37",
+     "type": "write",
+     "title": "Und Sie? Wer? Wie? Woher? Wo?",
+     "subtitle": "Abschnitt 7",
+     "prompt": "Üç kişiyi (ailenden, işten, arkadaşlarından) 2'şer cümleyle tanıt: Das ist …, er/sie kommt aus …, er/sie wohnt in …",
+     "minWords": 18,
+     "points": [
+      "Das ist … (isim)",
+      "Er/Sie kommt aus … (ülke/şehir)",
+      "Er/Sie wohnt jetzt in … (şehir)"
+     ],
+     "sample": "Das ist Ayşe. Sie kommt aus der Türkei, aus Izmir. Sie wohnt jetzt in Antalya. Das ist Mehmet. Er kommt aus Ankara. Er wohnt in Istanbul."
+    },
+    {
+     "id": "k1.l.38",
+     "type": "words",
+     "title": "Anmeldung in der Firma – Wörter",
+     "subtitle": "Abschnitt 8 · Ses 1.18",
+     "words": [
+      "k1.w.anmeldung",
+      "k1.w.firma",
+      "k1.w.familienname",
+      "k1.w.vorname",
+      "k1.w.herkunft",
+      "k1.w.adresse",
+      "k1.w.strasse",
+      "k1.w.hausnummer",
+      "k1.w.postleitzahl",
+      "k1.w.ort",
+      "k1.w.telefon",
+      "k1.w.telefonnummer",
+      "k1.w.formular",
+      "k1.w.ihr",
+      "k1.w.man",
+      "k1.w.bitte",
+      "k1.w.hier",
+      "k1.w.danke",
+      "k1.w.noch-einmal",
+      "k1.w.dienstleistung",
+      "k1.w.blumenstrasse"
+     ]
+    },
+    {
+     "id": "k1.l.39",
+     "type": "dialog",
+     "title": "Anmeldung in der Firma",
+     "subtitle": "Abschnitt 8 · Ses 1.18",
+     "dialog": "k1.d.anmeldung",
+     "redemittel": [
+      "Wie ist Ihr Familienname?",
+      "Wie schreibt man das, bitte?",
+      "Wie ist Ihr Vorname?",
+      "Wie ist Ihre Postleitzahl?",
+      "Wie ist Ihre Telefonnummer?"
+     ]
+    },
+    {
+     "id": "k1.l.40",
+     "type": "form",
+     "title": "Formular: K&L – Dienstleistungen GmbH",
+     "subtitle": "Abschnitt 8 · 8b",
+     "prompt": "Diyaloğu dinle ve Eleni Dumitru'nun formunu doldur.",
+     "heading": "K&L – Dienstleistungen GmbH",
+     "fields": [
+      {
+       "id": "familienname",
+       "label": "Familienname",
+       "answer": "Dumitru"
+      },
+      {
+       "id": "vorname",
+       "label": "Vorname",
+       "answer": "Eleni"
+      },
+      {
+       "id": "herkunft",
+       "label": "Herkunft (Land)",
+       "answer": "Rumänien"
+      },
+      {
+       "id": "strasse",
+       "label": "Straße/Hausnummer",
+       "answer": "Blumenstraße 4",
+       "hint": "Cadde adı + kapı numarası"
+      },
+      {
+       "id": "plz",
+       "label": "Postleitzahl/Ort",
+       "answer": "80331 München",
+       "hint": "Posta kodu + şehir"
+      },
+      {
+       "id": "telefon",
+       "label": "Telefon",
+       "answer": "089 63822392"
+      }
+     ]
+    },
+    {
+     "id": "k1.l.41",
+     "type": "words",
+     "title": "Zahlen 0–10",
+     "subtitle": "Abschnitt 8 · Ses 1.19",
+     "words": [
+      "k1.w.null",
+      "k1.w.eins",
+      "k1.w.zwei",
+      "k1.w.drei",
+      "k1.w.vier",
+      "k1.w.fuenf",
+      "k1.w.sechs",
+      "k1.w.sieben",
+      "k1.w.acht",
+      "k1.w.neun",
+      "k1.w.zehn",
+      "k1.w.zahl",
+      "k1.w.wort",
+      "k1.w.zaehlen"
+     ]
+    },
+    {
+     "id": "k1.l.42",
+     "type": "dialog",
+     "title": "Zahl und Wort von 0 bis 10",
+     "subtitle": "Abschnitt 8 · Ses 1.19",
+     "dialog": "k1.d.zahlen",
+     "redemittel": [
+      "Wie ist Ihre Postleitzahl? – 80331.",
+      "Wie ist Ihre Telefonnummer? – 089 63822392."
+     ]
+    },
+    {
+     "id": "k1.l.43",
+     "type": "fill",
+     "title": "Ihr oder Ihre?",
+     "subtitle": "Abschnitt 8",
+     "prompt": "Ihr (der/das isimlerle) veya Ihre (die isimlerle) yaz.",
+     "text": "Wie ist ___ Familienname? Wie ist ___ Vorname? Wie ist ___ Postleitzahl? Wie ist ___ Telefonnummer?",
+     "answers": [
+      "Ihr",
+      "Ihr",
+      "Ihre",
+      "Ihre"
+     ]
+    },
+    {
+     "id": "k1.l.44",
+     "type": "fill",
+     "title": "Zahlen",
+     "subtitle": "Abschnitt 8",
+     "prompt": "Sayıları Almanca yazıyla yaz.",
+     "text": "3 = ___, 7 = ___, 10 = ___, 0 = ___",
+     "answers": [
+      "drei",
+      "sieben",
+      "zehn",
+      "null"
+     ]
+    },
+    {
+     "id": "k1.l.45",
+     "type": "write",
+     "title": "Und Sie? Postleitzahl und Telefonnummer",
+     "subtitle": "Abschnitt 8",
+     "prompt": "Kendi posta kodunu ve telefon numaranı Almanca tam cümleyle yaz, sonra rakamları tek tek sesli oku: Meine Postleitzahl ist … Meine Telefonnummer ist …",
+     "minWords": 8,
+     "points": [
+      "Meine Postleitzahl ist … (rakamları tek tek: acht-null-drei-drei-eins)",
+      "Meine Telefonnummer ist …"
+     ],
+     "sample": "Meine Postleitzahl ist 07100. Meine Telefonnummer ist 0242 1234567."
+    },
+    {
+     "id": "k1.l.46",
+     "type": "words",
+     "title": "Fragen und Antworten – Wörter",
+     "subtitle": "Abschnitt 9 · Ses 1.20",
+     "words": [
+      "k1.w.frage",
+      "k1.w.antwort",
+      "k1.w.w-frage",
+      "k1.w.fragewort",
+      "k1.w.satz",
+      "k1.w.satzanfang",
+      "k1.w.position",
+      "k1.w.praeposition",
+      "k1.w.gross",
+      "k1.w.also",
+      "k1.w.ja-richtig",
+      "k1.w.mein",
+      "k1.w.graefstrasse",
+      "k1.w.stehen",
+      "k1.w.kontrolle",
+      "k1.w.bild",
+      "k1.w.wohnort",
+      "k1.w.vorhang"
+     ]
+    },
+    {
+     "id": "k1.l.47",
+     "type": "grammar",
+     "title": "Fokus: W-Fragen – Verb: Position 2",
+     "subtitle": "Abschnitt 9 · 9b",
+     "tables": [
+      {
+       "title": "Fragewörter",
+       "columns": [
+        "Fragewort",
+        "Beispiel",
+        "Türkçe"
+       ],
+       "rows": [
+        [
+         "Wie?",
+         "Wie heißen Sie?",
+         "Nasıl? → Adınız ne?"
+        ],
+        [
+         "Wo?",
+         "Wo wohnen Sie?",
+         "Nerede?"
+        ],
+        [
+         "Woher?",
+         "Woher kommen Sie?",
+         "Nereden?"
+        ],
+        [
+         "Wer?",
+         "Wer kommt aus Syrien?",
+         "Kim?"
+        ]
+       ]
+      },
+      {
+       "title": "W-Fragen und Antworten: Verb: Position 2",
+       "columns": [
+        "Position 1",
+        "Position 2 (Verb)",
+        "…"
+       ],
+       "rows": [
+        [
+         "Wie",
+         "heißen",
+         "Sie?"
+        ],
+        [
+         "Woher",
+         "kommen",
+         "Sie?"
+        ],
+        [
+         "Wo",
+         "wohnen",
+         "Sie?"
+        ],
+        [
+         "Ich",
+         "heiße",
+         "Osman."
+        ],
+        [
+         "Ich",
+         "komme",
+         "aus Spanien."
+        ],
+        [
+         "Ich",
+         "wohne",
+         "in München."
+        ]
+       ]
+      }
+     ],
+     "rule": "W-sorularında soru kelimesi 1., fiil 2. konumdadır. Cevapta da fiil 2. konumdadır (Ich komme aus Spanien). Am Satzanfang schreibt man groß: cümlenin ilk kelimesi büyük harfle başlar.",
+     "examples": [
+      "Wie heißen Sie? – Ich heiße Osman.",
+      "Woher kommst du? – Ich komme aus Spanien.",
+      "Wo wohnst du? – Ich wohne in Deutschland.",
+      "Wie heißt er? Er heißt Pablo."
+     ]
+    },
+    {
+     "id": "k1.l.48",
+     "type": "order",
+     "title": "Lebende Sätze 1",
+     "subtitle": "Abschnitt 9 · 9c",
+     "prompt": "Kelimeleri doğru sıraya koy (fiil 2. konumda).",
+     "tokens": [
+      "aus Polen",
+      "Dana",
+      "kommt"
+     ],
+     "answer": "Dana kommt aus Polen."
+    },
+    {
+     "id": "k1.l.49",
+     "type": "order",
+     "title": "Lebende Sätze 2",
+     "subtitle": "Abschnitt 9 · 9c",
+     "prompt": "Soru cümlesini kur (soru kelimesi başta, fiil 2. konumda).",
+     "tokens": [
+      "Ihr Familienname",
+      "ist",
+      "Wie"
+     ],
+     "answer": "Wie ist Ihr Familienname?"
+    },
+    {
+     "id": "k1.l.50",
+     "type": "order",
+     "title": "Lebende Sätze 3",
+     "subtitle": "Abschnitt 9 · 9c",
+     "prompt": "Soru cümlesini kur.",
+     "tokens": [
+      "kommen",
+      "Woher",
+      "Sie"
+     ],
+     "answer": "Woher kommen Sie?"
+    },
+    {
+     "id": "k1.l.51",
+     "type": "dialog",
+     "title": "Anmeldung – Pablo Puente",
+     "subtitle": "Abschnitt 9 · Ses 1.20",
+     "dialog": "k1.d.anmeldung2",
+     "redemittel": [
+      "Guten Tag, wie heißen Sie, bitte?",
+      "Pablo, also P-a-b-l-o?",
+      "Ich buchstabiere: …",
+      "Meine Telefonnummer ist …"
+     ],
+     "note": "Kitapta 9d boşluklu; sorular konuşma balonlarından diyaloğa mantıksal sırayla yerleştirildi (ses 1.20 ile kontrol edilmeli)."
+    },
+    {
+     "id": "k1.l.52",
+     "type": "choice",
+     "title": "Am Satzanfang schreibt man groß",
+     "subtitle": "Abschnitt 9",
+     "prompt": "Hangi cümle doğru yazılmış?",
+     "options": [
+      {
+       "text": "Er heißt Pablo.",
+       "correct": true
+      },
+      {
+       "text": "er heißt Pablo.",
+       "correct": false,
+       "feedback": "Cümle başı büyük harfle yazılır: Er heißt Pablo."
+      },
+      {
+       "text": "Er Heißt Pablo.",
+       "correct": false,
+       "feedback": "Fiiller küçük yazılır; sadece cümle başı ve isimler büyük."
+      }
+     ],
+     "feedbackOk": "Doğru! Am Satzanfang schreibt man groß: cümle başı ve isimler büyük, fiiller küçük.",
+     "feedbackBad": "Kural: cümlenin ilk kelimesi ve isimler büyük harfle, fiiller küçük harfle yazılır: Er heißt Pablo."
+    },
+    {
+     "id": "k1.l.53",
+     "type": "roleplay",
+     "title": "Vorhang auf – A: Begrüßung",
+     "subtitle": "Vorhang auf · Video K1",
+     "dialog": "k1.d.kurstag",
+     "role": "Sen: Almanca kursunun ilk gününde yeni bir katılımcısın.",
+     "partner": "Partner: kursta yanındaki kişi (önce resmi Sie, sonra samimi du).",
+     "scenario": "Resimdeki gibi iki kez selamlaş: önce resmi (Guten Tag, ich heiße … Wie heißen Sie?), sonra samimi (Hallo, ich bin … Und wer bist du?). Sonunda vedalaş (Auf Wiedersehen / Tschüs)."
+    },
+    {
+     "id": "k1.l.54",
+     "type": "roleplay",
+     "title": "Vorhang auf – B: Woher? Wo?",
+     "subtitle": "Vorhang auf · Video K1",
+     "dialog": "k1.d.wohnen2",
+     "role": "Sen: Türkiye'den gelen, şimdi Almanya'da yaşayan bir kursiyer.",
+     "partner": "Partner: dünya haritasının önünde tanıştığın başka bir kursiyer.",
+     "scenario": "Nereden geldiğini ve şimdi nerede oturduğunu söyle (Ich komme aus … und wohne jetzt in … Und du?). Partnerine aynı soruları sor: Woher kommst du? Wo wohnst du jetzt?"
+    },
+    {
+     "id": "k1.l.55",
+     "type": "roleplay",
+     "title": "Vorhang auf – C: Multilingua Anmeldung",
+     "subtitle": "Vorhang auf · Video K1",
+     "dialog": "k1.d.anmeldung",
+     "role": "Sen: Multilingua dil okuluna kayıt yaptıran öğrenci.",
+     "partner": "Partner: kayıt masasındaki görevli; Familienname, Vorname, Herkunft (Land), Wohnort ve Telefonnummer soruyor.",
+     "scenario": "Görevlinin sorularına kendi bilgilerinle cevap ver. Soyadını harf harf söyle (Ich buchstabiere: …), telefon numaranı rakam rakam söyle. Sonunda Danke ve Auf Wiedersehen ile bitir."
+    },
+    {
+     "id": "k1.l.done",
+     "type": "station-done",
+     "title": "Durak 1 tamamlandı",
+     "stats": [
+      {
+       "label": "kelime",
+       "value": "218"
+      },
+      {
+       "label": "diyalog",
+       "value": "14"
+      },
+      {
+       "label": "kalıp",
+       "value": "58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ueben",
+   "title": "Üben",
+   "steps": [
+    {
+     "id": "k1.u.01",
+     "title": "Ü1 · Begrüßungen",
+     "subtitle": "Übungen S. 8 · Ses 1.21",
+     "note": "Orijinal: 'Hören Sie. Ergänzen Sie die Sprechblasen.' Kitapta harf boşlukları var (Herzl_ch w_llk_mm_n), uygulamada kelime düzeyine çevrildi.",
+     "type": "fill",
+     "prompt": "Dinleyin ve konuşma balonlarını tamamlayın. Fotoğraflar: (1) Kurs odası, Herr Puente iki yeni kişiyi karşılıyor; (2) Herr Puente Frau Dumitru ile el sıkışıyor; (3) Herr Puente Pablo ile el sıkışıyor; (4) Eleni ve Pablo merdivende el sıkışıyor.",
+     "text": "Foto 1: Herzlich ___!\nFoto 2: ___ Tag, ___ Dumitru.\nFoto 3: ___ Tag, ___ Puente.\nFoto 4: ___, Pablo. – ___, Eleni.",
+     "answers": [
+      "willkommen",
+      "Guten",
+      "Frau",
+      "Guten",
+      "Herr",
+      "Hallo",
+      "Hallo"
+     ],
+     "track": "1.21"
+    },
+    {
+     "id": "k1.u.02",
+     "title": "Ü2a · Der erste Kurstag – Dialog 1",
+     "subtitle": "Übungen S. 8",
+     "note": "Hören Sie. Wer ist das? Kreuzen Sie an. Ses 1.22. Kitapta Dialog 1 örnek olarak işaretli. (choice tipinde track alanı yok; ses numarası subtitle'da.)",
+     "type": "choice",
+     "prompt": "Dinleyin (Ses 1.22, Dialog 1). Kim konuşuyor?",
+     "options": [
+      {
+       "text": "Herr Puente und Frau Dahms.",
+       "correct": true
+      },
+      {
+       "text": "Frau Dumitru und Herr Puente.",
+       "correct": false
+      }
+     ],
+     "track": "1.22"
+    },
+    {
+     "id": "k1.u.03",
+     "title": "Ü2a · Der erste Kurstag – Dialog 2",
+     "subtitle": "Übungen S. 8",
+     "note": "Cevap Ü2b Dialog 2'den teyitli: 'Guten Abend, ich heiße Pablo Puente' / 'ich heiße Maria Canale'. Ses 1.22.",
+     "type": "choice",
+     "prompt": "Dinleyin (Ses 1.22, Dialog 2). Kim konuşuyor?",
+     "options": [
+      {
+       "text": "Frau Dahms und Herr Puente.",
+       "correct": false
+      },
+      {
+       "text": "Herr Puente und Frau Canale.",
+       "correct": true
+      }
+     ],
+     "track": "1.22"
+    },
+    {
+     "id": "k1.u.04",
+     "title": "Ü2b · Dialog 1 – Cevap",
+     "subtitle": "Übungen S. 8",
+     "note": "Schreiben Sie die Dialoge. Dialog 1'in ilk satırı kitapta örnek olarak çözülmüş.",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış: 'gutentag,ichheißeannedahms.' Kelimeleri doğru sıraya koyup cümleyi kurun.",
+     "tokens": [
+      "ich",
+      "heiße",
+      "Dahms.",
+      "Guten",
+      "Anne",
+      "Tag,"
+     ],
+     "answer": "Guten Tag, ich heiße Anne Dahms."
+    },
+    {
+     "id": "k1.u.05",
+     "title": "Ü2b · Dialog 2 – Soru",
+     "subtitle": "Übungen S. 8",
+     "type": "order",
+     "prompt": "Bitişik metin: 'gutenabend,ichheißepablopuente.wieheißensie?' Kelimeleri sıraya koyun.",
+     "tokens": [
+      "ich",
+      "Pablo",
+      "Guten",
+      "Abend,",
+      "Wie",
+      "Puente.",
+      "heiße",
+      "Sie?",
+      "heißen"
+     ],
+     "answer": "Guten Abend, ich heiße Pablo Puente. Wie heißen Sie?"
+    },
+    {
+     "id": "k1.u.06",
+     "title": "Ü2b · Dialog 2 – Cevap",
+     "subtitle": "Übungen S. 8",
+     "type": "order",
+     "prompt": "Bitişik metin: 'gutenabend,ichheißemariacanale.' Kelimeleri sıraya koyun.",
+     "tokens": [
+      "Abend,",
+      "Canale.",
+      "ich",
+      "Maria",
+      "heiße",
+      "Guten"
+     ],
+     "answer": "Guten Abend, ich heiße Maria Canale."
+    },
+    {
+     "id": "k1.u.07",
+     "title": "Ü2c · Selamlama ve vedalaşma",
+     "subtitle": "Übungen S. 8",
+     "note": "Ergänzen Sie die Sprechblasen. Resim 1 kitapta örnek. cevap kontrol: resim 3/4 ayrımı (Auf Wiedersehen – resmi, Tschüs – samimi) görsel yoruma dayanıyor.",
+     "type": "match",
+     "prompt": "Her resme uygun ifadeyi eşleştirin. (Auf Wiedersehen. · Guten Abend. · Tschüs. · Guten Morgen.)",
+     "pairs": [
+      [
+       "Resim 1: Güneş yeni doğuyor, iki kişi birbirine el sallıyor",
+       "Guten Morgen."
+      ],
+      [
+       "Resim 2: Şehirde gün batımı, iki genç el sıkışıyor",
+       "Guten Abend."
+      ],
+      [
+       "Resim 3: Takım elbiseli iki adam, biri el sallayarak ayrılıyor (resmi)",
+       "Auf Wiedersehen."
+      ],
+      [
+       "Resim 4: İki genç arkadaş rahatça el sallıyor (samimi)",
+       "Tschüs."
+      ]
+     ]
+    },
+    {
+     "id": "k1.u.08",
+     "title": "Ü3 · Ich, du und Sie – Dialog 1",
+     "subtitle": "Übungen S. 9 · Ses 1.23",
+     "note": "Ergänzen Sie die Dialoge. Hören Sie zur Kontrolle. Kitapta 'Ich' örnek olarak yazılmış.",
+     "type": "fill",
+     "prompt": "Diyaloğu tamamlayın (ich / Sie / heiße / sind / Herr). Sonra kontrol için dinleyin.",
+     "text": "● Guten Tag. ___ ___ Bieber. Und ___?\n○ ___ ___ Koslowski.\n● Ah, ___ ___ ___ Koslowski!",
+     "answers": [
+      "Ich",
+      "heiße",
+      "Sie",
+      "Ich",
+      "heiße",
+      "Sie",
+      "sind",
+      "Herr"
+     ],
+     "track": "1.23"
+    },
+    {
+     "id": "k1.u.09",
+     "title": "Ü3 · Ich, du und Sie – Dialog 2",
+     "subtitle": "Übungen S. 9 · Ses 1.23",
+     "type": "fill",
+     "prompt": "Diyaloğu tamamlayın (bin / bist / du / heißt). Sonra kontrol için dinleyin.",
+     "text": "● Hallo, ich ___ Eleni. Und wer ___ ___?\n○ Hallo, Eleni! ___ ___ Maria.\n● Entschuldigung, wie ___ ___?\n○ Maria.",
+     "answers": [
+      "bin",
+      "bist",
+      "du",
+      "Ich",
+      "bin",
+      "heißt",
+      "du"
+     ],
+     "track": "1.23"
+    },
+    {
+     "id": "k1.u.10",
+     "title": "Ü4a · Woher kommst du? – Ländernamen",
+     "subtitle": "Übungen S. 9",
+     "note": "Ländernamen – Schreiben Sie. Kitapta ilk harfler verilmiş: die S…, D…, Ö…",
+     "type": "fill",
+     "prompt": "Haritadaki üç Almanca konuşulan ülkenin adını yazın.",
+     "text": "Foto 1 – das Matterhorn: die ___\nFoto 2 – das Brandenburger Tor: ___\nFoto 3 – das Riesenrad im Prater (Wien): ___",
+     "answers": [
+      "Schweiz",
+      "Deutschland",
+      "Österreich"
+     ]
+    },
+    {
+     "id": "k1.u.11",
+     "title": "Ü4b · Woher kommst du? – 1",
+     "subtitle": "Übungen S. 9",
+     "note": "Hören Sie. Was passt: a oder b? Ses 1.24. cevap kontrol: ses transkripti elimde yok; işaretli cevap tahmindir, kayıt dinlenerek doğrulanmalı. (choice tipinde track alanı yok.)",
+     "type": "choice",
+     "prompt": "Dinleyin (Ses 1.24, 1). 'Woher kommst du?' – Hangi cevap uyuyor?",
+     "options": [
+      {
+       "text": "a) Ich komme aus Indien.",
+       "correct": true
+      },
+      {
+       "text": "b) Ich komme aus Syrien.",
+       "correct": false
+      }
+     ],
+     "track": "1.24"
+    },
+    {
+     "id": "k1.u.12",
+     "title": "Ü4b · Woher kommst du? – 2",
+     "subtitle": "Übungen S. 9",
+     "note": "Hören Sie. Was passt: a oder b? Ses 1.24. cevap kontrol: ses transkripti elimde yok; işaretli cevap tahmindir, kayıt dinlenerek doğrulanmalı. (choice tipinde track alanı yok.)",
+     "type": "choice",
+     "prompt": "Dinleyin (Ses 1.24, 2). 'Woher kommst du?' – Hangi cevap uyuyor?",
+     "options": [
+      {
+       "text": "a) Ich komme aus Ankara.",
+       "correct": false
+      },
+      {
+       "text": "b) Ich komme aus Istanbul.",
+       "correct": true
+      }
+     ],
+     "track": "1.24"
+    },
+    {
+     "id": "k1.u.13",
+     "title": "Ü4b · Woher kommen Sie? – 3",
+     "subtitle": "Übungen S. 9",
+     "note": "Hören Sie. Was passt: a oder b? Ses 1.24. cevap kontrol: ses transkripti elimde yok; işaretli cevap tahmindir, kayıt dinlenerek doğrulanmalı. (choice tipinde track alanı yok.)",
+     "type": "choice",
+     "prompt": "Dinleyin (Ses 1.24, 3). 'Woher kommen Sie?' – Hangi cevap uyuyor?",
+     "options": [
+      {
+       "text": "a) Ich komme aus München.",
+       "correct": false
+      },
+      {
+       "text": "b) Ich komme aus Berlin.",
+       "correct": true
+      }
+     ],
+     "track": "1.24"
+    },
+    {
+     "id": "k1.u.14",
+     "title": "Ü5b · Buchstabieren – Ländernamen",
+     "subtitle": "Übungen S. 9 · Ses 1.26",
+     "note": "Ergänzen Sie. Hören Sie zur Kontrolle. 'Ö' kitapta örnek olarak verilmiş.",
+     "type": "fill",
+     "prompt": "Bayraklara göre ülke adlarındaki eksik harfleri yazın. Sonra kontrol için dinleyin.",
+     "text": "Avusturya: ___sterreich\nİsviçre: die Schw___z\nAlmanya: D___tschland\nTürkiye: die T___rkei\nRomanya: Rum___nien\nSuriye: S___rien",
+     "answers": [
+      "Ö",
+      "ei",
+      "eu",
+      "ü",
+      "ä",
+      "y"
+     ],
+     "track": "1.26",
+     "alternatives": [
+      [
+       "ö"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+     ]
+    },
+    {
+     "id": "k1.u.15",
+     "title": "Ü6a · Wo wohnst du jetzt? – Frau Dahms und Frau Nowak",
+     "subtitle": "Übungen S. 10 · Ses 1.27",
+     "note": "Ergänzen Sie den Dialog. Hören Sie zur Kontrolle. 'kommen Sie' kitapta örnek olarak kullanılmış.",
+     "type": "fill",
+     "prompt": "Diyaloğu verilen ifadelerle tamamlayın: wohnen Sie · wohne in · wohne in · komme aus · komme aus. Sonra kontrol için dinleyin.",
+     "text": "● Guten Tag, Frau Dahms, woher kommen Sie?\n○ Ich ___ Deutschland, aus Berlin.\n● Und wo ___ jetzt?\n○ Ich ___ München. Und Sie, Frau Nowak?\n● Ich ___ Polen und ___ München.",
+     "answers": [
+      "komme aus",
+      "wohnen Sie",
+      "wohne in",
+      "komme aus",
+      "wohne in"
+     ],
+     "track": "1.27"
+    },
+    {
+     "id": "k1.u.16",
+     "title": "Ü6b · Ben und Eleni – Diyaloğu sıralayın",
+     "subtitle": "Übungen S. 10 · Ses 1.28",
+     "note": "Schreiben Sie den Dialog. Hören Sie zur Kontrolle. Ses 1.28 (order tipinde track alanı yok).",
+     "type": "order",
+     "prompt": "Cümleler karışık. Ben ile Eleni'nin diyaloğunu doğru sıraya koyun. Başlangıç: 'Hallo, ich bin Ben …'. Sonra kontrol için dinleyin (Ses 1.28).",
+     "tokens": [
+      "Ich heiße Eleni. Ich komme aus Deva. Das ist in Rumänien. Woher kommst du?",
+      "Hallo, ich bin Ben. Und wer bist du?",
+      "In München.",
+      "Ich komme aus Chicago, USA.",
+      "Und wo wohnst du jetzt?"
+     ],
+     "answer": "Hallo, ich bin Ben. Und wer bist du? Ich heiße Eleni. Ich komme aus Deva. Das ist in Rumänien. Woher kommst du? Ich komme aus Chicago, USA. Und wo wohnst du jetzt? In München.",
+     "track": "1.28"
+    },
+    {
+     "id": "k1.u.17",
+     "title": "Ü6c · Verben – Dialog 1 (du)",
+     "subtitle": "Übungen S. 10",
+     "note": "Ergänzen Sie die Verben. 'heißt' ve 'kommst' kitapta örnek. Dikkat: heißen → du heißt (ß'den sonra sadece -t).",
+     "type": "fill",
+     "prompt": "Fiil eklerini tamamlayın (du / ich).",
+     "text": "● Wie heiß___ du?\n○ Ich heiß___ Dana.\n● Woher komm___ du?\n○ Ich komm___ aus Polen.\n● Wo wohn___ du?\n○ Ich wohn___ in München.",
+     "answers": [
+      "t",
+      "e",
+      "st",
+      "e",
+      "st",
+      "e"
+     ]
+    },
+    {
+     "id": "k1.u.18",
+     "title": "Ü6c · Verben – Dialog 2 (Sie)",
+     "subtitle": "Übungen S. 10",
+     "type": "fill",
+     "prompt": "Fiil eklerini tamamlayın (Sie / ich).",
+     "text": "● Wie heiß___ Sie?\n○ Ich heiß___ Ben Bieber.\n● Woher komm___ Sie?\n○ Ich komm___ aus den USA.\n● Wo wohn___ Sie?\n○ Ich wohn___ in München.",
+     "answers": [
+      "en",
+      "e",
+      "en",
+      "e",
+      "en",
+      "e"
+     ]
+    },
+    {
+     "id": "k1.u.19",
+     "title": "Ü6d · Und Sie? – Kendinizi tanıtın",
+     "subtitle": "Übungen S. 10",
+     "note": "Und Sie? Antworten Sie. Serbest cevap.",
+     "type": "write",
+     "prompt": "Üç soruyu kendiniz için cevaplayın: Wie heißen Sie? · Woher kommen Sie? · Wo wohnen Sie?",
+     "sample": "Ich heiße Yusuf Yılmaz. Ich komme aus der Türkei, aus Antalya. Ich wohne in Istanbul.",
+     "points": [
+      "Ich heiße …",
+      "Ich komme aus … (Ülke: aus der Türkei / aus Deutschland; şehir: aus Ankara)",
+      "Ich wohne in …"
+     ]
+    },
+    {
+     "id": "k1.u.20",
+     "title": "Ü7a · Das ist Noor Goyal",
+     "subtitle": "Übungen S. 11",
+     "note": "Schreiben Sie Sätze. 1 (Frau Dahms) kitapta örnek olarak çözülmüş.",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış. Sıraya koyup cümleleri kurun: 'dasistnoorgoyal.siekommtausindien.siewohntindeutschland.'",
+     "tokens": [
+      "Noor",
+      "Goyal.",
+      "in",
+      "aus",
+      "Sie",
+      "Deutschland.",
+      "Indien.",
+      "Sie",
+      "Das",
+      "kommt",
+      "ist",
+      "wohnt"
+     ],
+     "answer": "Das ist Noor Goyal. Sie kommt aus Indien. Sie wohnt in Deutschland."
+    },
+    {
+     "id": "k1.u.21",
+     "title": "Ü7a · Das ist Frau Nowak",
+     "subtitle": "Übungen S. 11",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış. Sıraya koyup cümleleri kurun: 'dasistfraunowak.siekommtauspolen,auslublin.siewohntinmünchen.'",
+     "tokens": [
+      "Lublin.",
+      "in",
+      "München.",
+      "kommt",
+      "Frau",
+      "ist",
+      "Sie",
+      "Sie",
+      "Polen,",
+      "Nowak.",
+      "aus",
+      "Das",
+      "wohnt",
+      "aus"
+     ],
+     "answer": "Das ist Frau Nowak. Sie kommt aus Polen, aus Lublin. Sie wohnt in München."
+    },
+    {
+     "id": "k1.u.22",
+     "title": "Ü7a · Das ist Ben Bieber",
+     "subtitle": "Übungen S. 11",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış. Sıraya koyup cümleleri kurun: 'dasistbenbieber.erkommtauschicago.erwohntinmünchen.'",
+     "tokens": [
+      "Bieber.",
+      "Er",
+      "in",
+      "wohnt",
+      "Ben",
+      "kommt",
+      "München.",
+      "ist",
+      "aus",
+      "Das",
+      "Er",
+      "Chicago."
+     ],
+     "answer": "Das ist Ben Bieber. Er kommt aus Chicago. Er wohnt in München."
+    },
+    {
+     "id": "k1.u.23",
+     "title": "Ü7a · Das ist Eleni Dumitru",
+     "subtitle": "Übungen S. 11",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış. Sıraya koyup cümleleri kurun: 'dasistelenidumitru.siewohntinmünchen.siekommtausrumänien.'",
+     "tokens": [
+      "Das",
+      "ist",
+      "wohnt",
+      "München.",
+      "Sie",
+      "kommt",
+      "Eleni",
+      "Dumitru.",
+      "aus",
+      "in",
+      "Sie",
+      "Rumänien."
+     ],
+     "answer": "Das ist Eleni Dumitru. Sie wohnt in München. Sie kommt aus Rumänien."
+    },
+    {
+     "id": "k1.u.24",
+     "title": "Ü7a · Das ist Amir Mazaad",
+     "subtitle": "Übungen S. 11",
+     "type": "order",
+     "prompt": "Kelimeler bitişik yazılmış. Sıraya koyup cümleleri kurun: 'dasistamirmazaad.erwohntinmünchen.erkommtaussyrien.'",
+     "tokens": [
+      "aus",
+      "Er",
+      "Syrien.",
+      "Amir",
+      "ist",
+      "wohnt",
+      "Er",
+      "in",
+      "Mazaad.",
+      "München.",
+      "Das",
+      "kommt"
+     ],
+     "answer": "Das ist Amir Mazaad. Er wohnt in München. Er kommt aus Syrien."
+    },
+    {
+     "id": "k1.u.25",
+     "title": "Ü7b · Verben – Angela Merkel",
+     "subtitle": "Übungen S. 11",
+     "note": "Ergänzen Sie die Verben. 'kommt' kitapta örnek.",
+     "type": "fill",
+     "prompt": "Fiil eklerini tamamlayın (er/sie).",
+     "text": "Das ist Angela Merkel. Frau Merkel komm___ aus Brandenburg. Sie wohn___ in Berlin.",
+     "answers": [
+      "t",
+      "t"
+     ]
+    },
+    {
+     "id": "k1.u.26",
+     "title": "Ü7b · Verben – Sebastian Vettel",
+     "subtitle": "Übungen S. 11",
+     "type": "fill",
+     "prompt": "Fiil eklerini tamamlayın (Sie / ich).",
+     "text": "● Wie heiß___ Sie?\n○ Ich heiß___ Sebastian Vettel.\n● Woher komm___ Sie?\n○ Ich komm___ aus Deutschland. Ich wohn___ in der Schweiz.",
+     "answers": [
+      "en",
+      "e",
+      "en",
+      "e",
+      "e"
+     ]
+    },
+    {
+     "id": "k1.u.27",
+     "title": "Ü7b · Verben – Heidi und Arnold Schwarzenegger",
+     "subtitle": "Übungen S. 11",
+     "type": "fill",
+     "prompt": "Fiil eklerini tamamlayın (sein: bist/bin; er).",
+     "text": "● Hallo! Wer b___ du?\n○ Ich b___ Heidi. Ich komm___ aus der Schweiz.\n\nEr heiß___ Arnold Schwarzenegger. Er komm___ aus Österreich, aus Thal. Er wohn___ in Kalifornien.",
+     "answers": [
+      "ist",
+      "in",
+      "e",
+      "t",
+      "t",
+      "t"
+     ]
+    },
+    {
+     "id": "k1.u.28",
+     "title": "Ü8a · Anmeldung in der Firma – Formular",
+     "subtitle": "Übungen S. 12",
+     "note": "Und Sie? Ergänzen Sie das Formular. Kişisel bilgi; sabit cevap yok.",
+     "type": "form",
+     "prompt": "Formu kendi bilgilerinizle doldurun.",
+     "heading": "Kurs GmbH",
+     "fields": [
+      {
+       "id": "familienname",
+       "label": "Familienname",
+       "hint": "Soyadı"
+      },
+      {
+       "id": "vorname",
+       "label": "Vorname",
+       "hint": "Adı"
+      },
+      {
+       "id": "herkunft",
+       "label": "Herkunft (Land)",
+       "hint": "Geldiği ülke, ör. Türkei"
+      },
+      {
+       "id": "strasse",
+       "label": "Straße/Hausnummer",
+       "hint": "Cadde / kapı no"
+      },
+      {
+       "id": "plz_ort",
+       "label": "Postleitzahl/Ort",
+       "hint": "Posta kodu / şehir"
+      },
+      {
+       "id": "telefon",
+       "label": "Telefon",
+       "hint": "Telefon numarası"
+      }
+     ]
+    },
+    {
+     "id": "k1.u.29",
+     "title": "Ü8b · Zahlen 0 bis 10 (1)",
+     "subtitle": "Übungen S. 12",
+     "note": "Zahlen 0 bis 10 – Schreiben Sie Zahlen zu den Wörtern. '6 sechs' kitapta örnek.",
+     "type": "match",
+     "prompt": "Sayı sözcüğünü rakamla eşleştirin.",
+     "pairs": [
+      [
+       "sechs",
+       "6"
+      ],
+      [
+       "eins",
+       "1"
+      ],
+      [
+       "zehn",
+       "10"
+      ],
+      [
+       "zwei",
+       "2"
+      ],
+      [
+       "neun",
+       "9"
+      ]
+     ]
+    },
+    {
+     "id": "k1.u.30",
+     "title": "Ü8b · Zahlen 0 bis 10 (2)",
+     "subtitle": "Übungen S. 12",
+     "type": "match",
+     "prompt": "Sayı sözcüğünü rakamla eşleştirin.",
+     "pairs": [
+      [
+       "drei",
+       "3"
+      ],
+      [
+       "acht",
+       "8"
+      ],
+      [
+       "vier",
+       "4"
+      ],
+      [
+       "sieben",
+       "7"
+      ],
+      [
+       "fünf",
+       "5"
+      ]
+     ]
+    },
+    {
+     "id": "k1.u.31",
+     "title": "Ü8c · Zahlen – Eksik harfler",
+     "subtitle": "Übungen S. 12 · Ses 1.29",
+     "note": "Hören Sie und ergänzen Sie die Wörter. 'null' kitapta örnek.",
+     "type": "fill",
+     "prompt": "Dinleyin ve sayı sözcüklerindeki eksik harfleri tamamlayın (0–10).",
+     "text": "0 n___ll · 1 ___ns · 2 zw___ · 3 dr___ · 4 v___r · 5 f___nf · 6 s___chs · 7 s___ben · 8 ___cht · 9 n___n · 10 z___hn",
+     "answers": [
+      "u",
+      "ei",
+      "ei",
+      "ei",
+      "ie",
+      "ü",
+      "e",
+      "ie",
+      "a",
+      "eu",
+      "e"
+     ],
+     "track": "1.29"
+    },
+    {
+     "id": "k1.u.32",
+     "title": "Ü8c · Zählen Sie laut – 0 bis 10",
+     "subtitle": "Übungen S. 12 · Ses 1.29",
+     "note": "Zählen Sie laut. Dinle-tekrarla.",
+     "type": "shadow",
+     "sentences": [
+      {
+       "de": "null",
+       "tr": "sıfır",
+       "track": "1.29"
+      },
+      {
+       "de": "eins",
+       "tr": "bir"
+      },
+      {
+       "de": "zwei",
+       "tr": "iki"
+      },
+      {
+       "de": "drei",
+       "tr": "üç"
+      },
+      {
+       "de": "vier",
+       "tr": "dört"
+      },
+      {
+       "de": "fünf",
+       "tr": "beş"
+      },
+      {
+       "de": "sechs",
+       "tr": "altı"
+      },
+      {
+       "de": "sieben",
+       "tr": "yedi"
+      },
+      {
+       "de": "acht",
+       "tr": "sekiz"
+      },
+      {
+       "de": "neun",
+       "tr": "dokuz"
+      },
+      {
+       "de": "zehn",
+       "tr": "on"
+      }
+     ],
+     "track": "1.29"
+    },
+    {
+     "id": "k1.u.33",
+     "title": "Ü9a · Fragen und Antworten – 1",
+     "subtitle": "Übungen S. 12",
+     "note": "Lesen Sie die Fragen. Welche Antwort passt? Kitapta 1 örnek olarak işaretli (b). Soru 'Dana' hakkında, 3. tekil → sie kommt.",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Woher kommt Dana?",
+     "options": [
+      {
+       "text": "a) Ich komme aus Polen.",
+       "correct": false
+      },
+      {
+       "text": "b) Sie kommt aus Polen.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "id": "k1.u.34",
+     "title": "Ü9a · Fragen und Antworten – 2",
+     "subtitle": "Übungen S. 12",
+     "note": "'du' samimi hitap → ön adla cevap (Eleni). 'Frau Dumitru' resmi, 'Sie' sorusuna uyardı.",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Wie heißt du?",
+     "options": [
+      {
+       "text": "a) Ich bin Frau Dumitru.",
+       "correct": false
+      },
+      {
+       "text": "b) Eleni.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "id": "k1.u.35",
+     "title": "Ü9a · Fragen und Antworten – 3",
+     "subtitle": "Übungen S. 12",
+     "note": "Pablo erkek → er.",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Wo wohnt Pablo?",
+     "options": [
+      {
+       "text": "a) Er wohnt in der Gräfstraße 10.",
+       "correct": true
+      },
+      {
+       "text": "b) Sie wohnt in der Gräfstraße 10.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "id": "k1.u.36",
+     "title": "Ü9a · Fragen und Antworten – 4",
+     "subtitle": "Übungen S. 12",
+     "note": "wo → in; woher → aus.",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Wo wohnen Sie?",
+     "options": [
+      {
+       "text": "a) Aus Hamburg.",
+       "correct": false
+      },
+      {
+       "text": "b) In Hamburg.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "id": "k1.u.37",
+     "title": "Ü9a · Fragen und Antworten – 5",
+     "subtitle": "Übungen S. 12",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Wie buchstabiert man das?",
+     "options": [
+      {
+       "text": "a) D-u-m-i-t-r-u.",
+       "correct": true
+      },
+      {
+       "text": "b) Ja, richtig.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "id": "k1.u.38",
+     "title": "Ü9a · Fragen und Antworten – 6",
+     "subtitle": "Übungen S. 12",
+     "note": "Familienname = soyadı → Dahms; Anne ön ad (Vorname).",
+     "type": "choice",
+     "prompt": "Soruyu okuyun. Hangi cevap uyuyor? – Wie ist Ihr Familienname?",
+     "options": [
+      {
+       "text": "a) Anne.",
+       "correct": false
+      },
+      {
+       "text": "b) Dahms.",
+       "correct": true
+      }
+     ]
+    },
+    {
+     "id": "k1.u.39",
+     "title": "Ü9b · Fragen schreiben – Pablo Puente",
+     "subtitle": "Übungen S. 12",
+     "note": "Schreiben Sie die Fragen. Tam cümle beklenir; du-formları alternatif olarak kabul.",
+     "type": "fill",
+     "prompt": "Cevaplar verilmiş; uygun soruyu (Sie ile, resmi) yazın. Örnek: 'Wie ist Ihr Familienname?' – Puente.",
+     "text": "1. Wie ist Ihr Familienname? – Puente.\n2. ___ – Pablo.\n3. ___ – Aus Spanien.\n4. ___ – In München.\n5. ___ – 0151 50974456.\n6. ___ – 81241.",
+     "answers": [
+      "Wie ist Ihr Vorname?",
+      "Woher kommen Sie?",
+      "Wo wohnen Sie?",
+      "Wie ist Ihre Telefonnummer?",
+      "Wie ist Ihre Postleitzahl?"
+     ],
+     "alternatives": [
+      [
+       "Wie heißen Sie?",
+       "Wie ist dein Vorname?"
+      ],
+      [
+       "Woher kommst du?"
+      ],
+      [
+       "Wo wohnst du?"
+      ],
+      [
+       "Wie ist deine Telefonnummer?"
+      ],
+      [
+       "Wie ist deine Postleitzahl?",
+       "Wie ist die Postleitzahl?"
+      ]
+     ]
+    },
+    {
+     "id": "k1.u.40",
+     "title": "Ü9c · Verb Position 2 – Satz 2",
+     "subtitle": "Übungen S. 13",
+     "note": "Schreiben Sie die Sätze in die Tabelle. 1 (Woher kommen Sie?) kitapta örnek.",
+     "type": "order",
+     "prompt": "Kelimeleri sıraya koyun. Kural: fiil 2. pozisyonda. (komme / aus / Bonn / . / Ich)",
+     "tokens": [
+      "aus",
+      "Bonn.",
+      "komme",
+      "Ich"
+     ],
+     "answer": "Ich komme aus Bonn."
+    },
+    {
+     "id": "k1.u.41",
+     "title": "Ü9c · Verb Position 2 – Satz 3",
+     "subtitle": "Übungen S. 13",
+     "type": "order",
+     "prompt": "Kelimeleri sıraya koyun. Kural: fiil 2. pozisyonda. (wohnen / Sie / ? / Wo)",
+     "tokens": [
+      "Sie?",
+      "wohnen",
+      "Wo"
+     ],
+     "answer": "Wo wohnen Sie?"
+    },
+    {
+     "id": "k1.u.42",
+     "title": "Ü9c · Verb Position 2 – Satz 4",
+     "subtitle": "Übungen S. 13",
+     "type": "order",
+     "prompt": "Kelimeleri sıraya koyun. Kural: fiil 2. pozisyonda. (wohne / Ich / in / Dresden / .)",
+     "tokens": [
+      "Dresden.",
+      "Ich",
+      "wohne",
+      "in"
+     ],
+     "answer": "Ich wohne in Dresden."
+    },
+    {
+     "id": "k1.u.43",
+     "title": "Ü9c · Verb Position 2 – Satz 5",
+     "subtitle": "Übungen S. 13",
+     "type": "order",
+     "prompt": "Kelimeleri sıraya koyun. Kural: fiil 2. pozisyonda. (kommt / Er / aus / Bonn / .)",
+     "tokens": [
+      "aus",
+      "kommt",
+      "Er",
+      "Bonn."
+     ],
+     "answer": "Er kommt aus Bonn."
+    },
+    {
+     "id": "k1.u.44",
+     "title": "Ü9c · Verb Position 2 – Satz 6",
+     "subtitle": "Übungen S. 13",
+     "type": "order",
+     "prompt": "Kelimeleri sıraya koyun. Kural: fiil 2. pozisyonda. (wohnt / Sie / in / Dresden / .)",
+     "tokens": [
+      "wohnt",
+      "Sie",
+      "in",
+      "Dresden."
+     ],
+     "answer": "Sie wohnt in Dresden."
+    },
+    {
+     "id": "k1.u.45",
+     "title": "Leichter lernen a · Werkzeuge zum Deutschlernen",
+     "subtitle": "Übungen S. 13",
+     "note": "Ordnen Sie die Wörter zu. 'Radiergummi' kitapta örnek.",
+     "type": "match",
+     "prompt": "Resimdeki nesneyi adıyla eşleştirin. (Kuli · Bleistift · Radiergummi · Marker)",
+     "pairs": [
+      [
+       "Resim 1: mavi-beyaz silgi",
+       "Radiergummi"
+      ],
+      [
+       "Resim 2: yeşil kurşun kalem",
+       "Bleistift"
+      ],
+      [
+       "Resim 3: pembe fosforlu kalem",
+       "Marker"
+      ],
+      [
+       "Resim 4: turuncu tükenmez kalem",
+       "Kuli"
+      ]
+     ]
+    },
+    {
+     "id": "k1.u.46",
+     "title": "Leichter lernen b · Verbtabelle",
+     "subtitle": "Übungen S. 13",
+     "note": "Beginnen Sie Ihr Deutschheft. Schreiben Sie die Verbtabelle wie im Beispiel ins Heft. Defter kısmı uygulamada tablo doldurmaya çevrildi.",
+     "type": "fill",
+     "prompt": "Defterinize yazacağınız fiil tablosunu tamamlayın: kommen · heißen · wohnen · sein.",
+     "text": "ich: komme · heiße · wohne · bin\ndu: kommst · heißt · wohn___ · ___\ner/es/sie: komm___ · heiß___ · wohn___ · ___\nSie: komm___ · heiß___ · wohn___ · ___",
+     "answers": [
+      "st",
+      "bist",
+      "t",
+      "t",
+      "t",
+      "ist",
+      "en",
+      "en",
+      "en",
+      "sind"
+     ]
+    },
+    {
+     "id": "k1.u.47",
+     "title": "Richtig schreiben · Schreiben Sie den Text",
+     "subtitle": "Übungen S. 13",
+     "note": "Richtig schreiben. Beklenen metin sample'da.",
+     "type": "write",
+     "prompt": "Metni büyük harf, nokta ve soru işaretiyle doğru yazın: 'weristdasdasistfredwintererkommtauslondonerwohntinberlinerwohntinderkantstraße10'. Kurallar: İsimler ve cins isimler büyük harfle başlar; cümle başı büyük; cümle sonunda nokta; sorudan sonra soru işareti.",
+     "sample": "Wer ist das? Das ist Fred Winter. Er kommt aus London. Er wohnt in Berlin. Er wohnt in der Kantstraße 10.",
+     "points": [
+      "Wer ist das?",
+      "Das ist Fred Winter.",
+      "Er kommt aus London.",
+      "Er wohnt in Berlin.",
+      "Er wohnt in der Kantstraße 10."
+     ]
+    },
+    {
+     "id": "k1.u.dict1_25",
+     "type": "dictation",
+     "title": "Ü5a · Namen buchstabieren",
+     "subtitle": "Übungen · Ses 1.25",
+     "prompt": "Hecelenen isimleri dinle ve yaz.",
+     "track": "1.25",
+     "text": "Mein Familienname ist Döring.\nWie schreibt man das?\nD-ö-r-i-n-g.\nDöring?\nJa, Döring.\nGuten Tag, Frau … äh …\nPringsheim. Ich heiße Dora Pringsheim.\nOh, buchstabieren Sie das bitte.\nP-r-i-n-g-s-h-e-i-m.\nPringsheim, Dora Pringsheim?\nJa richtig.\nGuten Tag, mein Name ist Michaela Michalak.\nMichaela Micha… ? Wie schreibt man das, bitte?\nM-i-c-h-a-l-a-k.\nDanke, Frau Michalak.\nGuten Tag, Herr Müller.\nMüller? Mein Name ist Mühlbauer.\nOh Entschuldigung. Wie schreibt man das?\nM-ü-h-l-b-a-u-e-r."
+    },
+    {
+     "id": "k1.u.dict1_30",
+     "type": "dictation",
+     "title": "Ü8d · Telefonnummern",
+     "subtitle": "Übungen · Ses 1.30",
+     "prompt": "Telefon numaralarını dinle ve yaz.",
+     "track": "1.30",
+     "text": "Wie ist deine Telefonnummer?\nMeine Nummer ist 06203 81654.\n06203 81654.\nJa, richtig.\nWie ist deine Telefonnummer?\n01978 9032457.\n01978 9022457?\nNein 01978 9032457.\nName?\nRanga Joschar.\nTelefon?\n030 7819632.\nDanke.\nRuf mich bitte an. Meine Telefonnummer ist 09123 485760."
+    },
+    {
+     "id": "k1.u.done",
+     "type": "station-done",
+     "title": "Durak 2 tamamlandı"
+    }
+   ]
+  },
+  {
+   "id": "woerter",
+   "title": "Wörter",
+   "steps": [
+    {
+     "id": "k1.w.art1",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 1",
+     "words": [
+      "k1.w.begruessung",
+      "k1.w.herr",
+      "k1.w.frau",
+      "k1.w.foto",
+      "k1.w.kurs",
+      "k1.w.tag",
+      "k1.w.kurstag",
+      "k1.w.dialog"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.art2",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 2",
+     "words": [
+      "k1.w.morgen",
+      "k1.w.abend",
+      "k1.w.tageszeit",
+      "k1.w.entschuldigung",
+      "k1.w.name",
+      "k1.w.land",
+      "k1.w.stadt",
+      "k1.w.person"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.art3",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 3",
+     "words": [
+      "k1.w.usa",
+      "k1.w.ukraine",
+      "k1.w.libanon",
+      "k1.w.tuerkei",
+      "k1.w.schweiz",
+      "k1.w.musik",
+      "k1.w.anmeldung",
+      "k1.w.firma"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.art4",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 4",
+     "words": [
+      "k1.w.familienname",
+      "k1.w.vorname",
+      "k1.w.herkunft",
+      "k1.w.adresse",
+      "k1.w.strasse",
+      "k1.w.hausnummer",
+      "k1.w.postleitzahl",
+      "k1.w.ort"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.art5",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 5",
+     "words": [
+      "k1.w.telefon",
+      "k1.w.telefonnummer",
+      "k1.w.formular",
+      "k1.w.dienstleistung",
+      "k1.w.zahl",
+      "k1.w.wort",
+      "k1.w.frage",
+      "k1.w.antwort"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.art6",
+     "type": "flashcards",
+     "title": "Artikel hangisi?",
+     "subtitle": "Wörter · tur 6",
+     "words": [
+      "k1.w.wohnort",
+      "k1.w.irak",
+      "k1.w.herkunftsland",
+      "k1.w.sprache"
+     ],
+     "mode": "article"
+    },
+    {
+     "id": "k1.w.rec1",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 1",
+     "words": [
+      "k1.w.begruessung",
+      "k1.w.herr",
+      "k1.w.frau",
+      "k1.w.foto",
+      "k1.w.kurs",
+      "k1.w.tag",
+      "k1.w.guten-tag",
+      "k1.w.hallo",
+      "k1.w.herzlich-willkommen",
+      "k1.w.das-ist"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec2",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 2",
+     "words": [
+      "k1.w.begruessen",
+      "k1.w.ansehen",
+      "k1.w.ankreuzen",
+      "k1.w.zuordnen",
+      "k1.w.und",
+      "k1.w.aus",
+      "k1.w.kurstag",
+      "k1.w.dialog",
+      "k1.w.morgen",
+      "k1.w.abend"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec3",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 3",
+     "words": [
+      "k1.w.tageszeit",
+      "k1.w.guten-morgen",
+      "k1.w.guten-abend",
+      "k1.w.tschues",
+      "k1.w.auf-wiedersehen",
+      "k1.w.heissen",
+      "k1.w.lesen",
+      "k1.w.hoeren",
+      "k1.w.sprechen",
+      "k1.w.nachsprechen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec4",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 4",
+     "words": [
+      "k1.w.fragen",
+      "k1.w.antworten",
+      "k1.w.variieren",
+      "k1.w.ich",
+      "k1.w.sie-formal",
+      "k1.w.wie",
+      "k1.w.entschuldigung",
+      "k1.w.sein",
+      "k1.w.markieren",
+      "k1.w.ergaenzen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec5",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 5",
+     "words": [
+      "k1.w.passen",
+      "k1.w.spielen",
+      "k1.w.schreiben",
+      "k1.w.du",
+      "k1.w.wer",
+      "k1.w.oder",
+      "k1.w.ah",
+      "k1.w.name",
+      "k1.w.land",
+      "k1.w.stadt"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec6",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 6",
+     "words": [
+      "k1.w.person",
+      "k1.w.kommen",
+      "k1.w.kennen",
+      "k1.w.sammeln",
+      "k1.w.woher",
+      "k1.w.welche",
+      "k1.w.usa",
+      "k1.w.aegypten",
+      "k1.w.nigeria",
+      "k1.w.marokko"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec7",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 7",
+     "words": [
+      "k1.w.china",
+      "k1.w.kenia",
+      "k1.w.italien",
+      "k1.w.spanien",
+      "k1.w.mali",
+      "k1.w.bulgarien",
+      "k1.w.polen",
+      "k1.w.rumaenien",
+      "k1.w.ukraine",
+      "k1.w.libanon"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec8",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 8",
+     "words": [
+      "k1.w.tuerkei",
+      "k1.w.deutschland",
+      "k1.w.algerien",
+      "k1.w.oesterreich",
+      "k1.w.griechenland",
+      "k1.w.schweiz",
+      "k1.w.serbien",
+      "k1.w.russland",
+      "k1.w.chile",
+      "k1.w.ungarn"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec9",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 9",
+     "words": [
+      "k1.w.brasilien",
+      "k1.w.kroatien",
+      "k1.w.syrien",
+      "k1.w.indien",
+      "k1.w.deva",
+      "k1.w.lublin",
+      "k1.w.chennai",
+      "k1.w.tartus",
+      "k1.w.chicago",
+      "k1.w.istanbul"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec10",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 10",
+     "words": [
+      "k1.w.ankara",
+      "k1.w.musik",
+      "k1.w.buchstabieren",
+      "k1.w.singen",
+      "k1.w.waehlen",
+      "k1.w.raten",
+      "k1.w.mit",
+      "k1.w.wohnen",
+      "k1.w.notieren",
+      "k1.w.sagen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec11",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 11",
+     "words": [
+      "k1.w.wo",
+      "k1.w.jetzt",
+      "k1.w.in",
+      "k1.w.laut",
+      "k1.w.muenchen",
+      "k1.w.berlin",
+      "k1.w.leon",
+      "k1.w.vorstellen",
+      "k1.w.machen",
+      "k1.w.er"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec12",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 12",
+     "words": [
+      "k1.w.sie",
+      "k1.w.das",
+      "k1.w.drei",
+      "k1.w.anmeldung",
+      "k1.w.firma",
+      "k1.w.familienname",
+      "k1.w.vorname",
+      "k1.w.herkunft",
+      "k1.w.adresse",
+      "k1.w.strasse"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec13",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 13",
+     "words": [
+      "k1.w.hausnummer",
+      "k1.w.postleitzahl",
+      "k1.w.ort",
+      "k1.w.telefon",
+      "k1.w.telefonnummer",
+      "k1.w.formular",
+      "k1.w.dienstleistung",
+      "k1.w.zahl",
+      "k1.w.wort",
+      "k1.w.zaehlen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec14",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 14",
+     "words": [
+      "k1.w.danke",
+      "k1.w.bitte",
+      "k1.w.hier",
+      "k1.w.ihr",
+      "k1.w.man",
+      "k1.w.noch-einmal",
+      "k1.w.null",
+      "k1.w.eins",
+      "k1.w.zwei",
+      "k1.w.vier"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec15",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 15",
+     "words": [
+      "k1.w.fuenf",
+      "k1.w.sechs",
+      "k1.w.sieben",
+      "k1.w.acht",
+      "k1.w.neun",
+      "k1.w.zehn",
+      "k1.w.frage",
+      "k1.w.antwort",
+      "k1.w.wohnort",
+      "k1.w.stehen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec16",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 16",
+     "words": [
+      "k1.w.ja-richtig",
+      "k1.w.also",
+      "k1.w.mein",
+      "k1.w.gross",
+      "k1.w.die",
+      "k1.w.sich",
+      "k1.w.den",
+      "k1.w.herzlich-willkommen-2",
+      "k1.w.im",
+      "k1.w.der"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec17",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 17",
+     "words": [
+      "k1.w.erste",
+      "k1.w.tschus",
+      "k1.w.ah-2",
+      "k1.w.was",
+      "k1.w.zuhoren",
+      "k1.w.dem",
+      "k1.w.frankreich",
+      "k1.w.irak",
+      "k1.w.mitlesen",
+      "k1.w.mitsprechen"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec18",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 18",
+     "words": [
+      "k1.w.ein",
+      "k1.w.danke-2",
+      "k1.w.ihr-2",
+      "k1.w.bis",
+      "k1.w.dann",
+      "k1.w.am",
+      "k1.w.grossschreiben",
+      "k1.w.lebend",
+      "k1.w.ja",
+      "k1.w.mein-2"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.rec19",
+     "type": "flashcards",
+     "title": "Türkçesini düşün, çevir, puanla",
+     "subtitle": "Wiederholung · tur 19",
+     "words": [
+      "k1.w.richtig",
+      "k1.w.zur",
+      "k1.w.auf",
+      "k1.w.herkunftsland",
+      "k1.w.leicht",
+      "k1.w.lernen",
+      "k1.w.sprache",
+      "k1.w.zu"
+     ],
+     "mode": "recall"
+    },
+    {
+     "id": "k1.w.done",
+     "type": "station-done",
+     "title": "Durak 3 tamamlandı"
+    }
+   ]
+  },
+  {
+   "id": "hoeren",
+   "title": "Hören & Lesen",
+   "steps": [
+    {
+     "id": "k1.h.01",
+     "type": "listen",
+     "title": "1b Begrüßungen – Foto A",
+     "subtitle": "Hören & Lesen · Ses 1.02",
+     "dialog": "k1.d.begruessung1",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.02",
+     "type": "listen",
+     "title": "1b Begrüßungen – Foto D",
+     "subtitle": "Hören & Lesen · Ses 1.03",
+     "dialog": "k1.d.begruessung2",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.03",
+     "type": "listen",
+     "title": "2a Der erste Kurstag",
+     "subtitle": "Hören & Lesen · Ses 1.04",
+     "dialog": "k1.d.kurstag",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.04",
+     "type": "listen",
+     "title": "2b Grüße – Hören Sie und sprechen Sie nach",
+     "subtitle": "Hören & Lesen · Ses 1.05",
+     "dialog": "k1.d.gruesse",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.05",
+     "type": "listen",
+     "title": "3a Dialog 1 – Sie",
+     "subtitle": "Hören & Lesen · Ses 1.06",
+     "dialog": "k1.d.sie1",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.06",
+     "type": "listen",
+     "title": "3a Dialog 2 – du",
+     "subtitle": "Hören & Lesen · Ses 1.07",
+     "dialog": "k1.d.du2",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.07",
+     "type": "listen",
+     "title": "5a Das Alphabet – Buchstabieren mit Musik",
+     "subtitle": "Hören & Lesen · Ses 1.14",
+     "dialog": "k1.d.alphabet",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.08",
+     "type": "listen",
+     "title": "6b Dialog 1 – Wo wohnen Sie jetzt?",
+     "subtitle": "Hören & Lesen · Ses 1.16",
+     "dialog": "k1.d.wohnen1",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.09",
+     "type": "listen",
+     "title": "6b Dialog 2 – Wo wohnst du jetzt?",
+     "subtitle": "Hören & Lesen · Ses 1.17",
+     "dialog": "k1.d.wohnen2",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.10",
+     "type": "listen",
+     "title": "8b Anmeldung in der Firma",
+     "subtitle": "Hören & Lesen · Ses 1.18",
+     "dialog": "k1.d.anmeldung",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.11",
+     "type": "listen",
+     "title": "8c Zahl und Wort von 0 bis 10",
+     "subtitle": "Hören & Lesen · Ses 1.19",
+     "dialog": "k1.d.zahlen",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.12",
+     "type": "listen",
+     "title": "9d Anmeldung – Pablo Puente",
+     "subtitle": "Hören & Lesen · Ses 1.20",
+     "dialog": "k1.d.anmeldung2",
+     "modes": [
+      "hoeren",
+      "mitlesen",
+      "shadowing"
+     ]
+    },
+    {
+     "id": "k1.h.role",
+     "type": "roleplay",
+     "title": "Rollenspiel: Anmeldung",
+     "subtitle": "Sprechen",
+     "dialog": "k1.d.anmeldung",
+     "role": "Eleni (kayıt olan kişi) — kendi bilgilerinle",
+     "partner": "Frau Nowak (şirket sekreteri)",
+     "scenario": "Bir dil kursuna / şirkete kayıt oluyorsun. Sekreter soyadını, hecelemeni, adını, nereden geldiğini, nerede oturduğunu, posta kodunu ve telefon numaranı soruyor. Kendi bilgilerinle Almanca cevap ver."
+    },
+    {
+     "id": "k1.h.done",
+     "type": "station-done",
+     "title": "Durak 4 tamamlandı"
+    }
+   ]
+  },
+  {
+   "id": "schreiben",
+   "title": "Schreiben",
+   "steps": [
+    {
+     "id": "k1.s.form",
+     "type": "form",
+     "title": "Formular ausfüllen",
+     "subtitle": "Schreiben · Goethe Teil 1",
+     "prompt": "Multilingua dil kursu kayıt formunu kendi bilgilerinle doldur.",
+     "heading": "Multilingua · Anmeldung",
+     "fields": [
+      {
+       "id": "familienname",
+       "label": "Familienname"
+      },
+      {
+       "id": "vorname",
+       "label": "Vorname"
+      },
+      {
+       "id": "herkunft",
+       "label": "Herkunft (Land)",
+       "hint": "aus der Türkei → Türkei"
+      },
+      {
+       "id": "wohnort",
+       "label": "Wohnort"
+      },
+      {
+       "id": "strasse",
+       "label": "Straße / Hausnummer"
+      },
+      {
+       "id": "plz",
+       "label": "Postleitzahl"
+      },
+      {
+       "id": "telefon",
+       "label": "Telefonnummer"
+      }
+     ]
+    },
+    {
+     "id": "k1.s.write",
+     "type": "write",
+     "title": "Kurze Mitteilung",
+     "subtitle": "Schreiben · Goethe Teil 2 · ≈30 Wörter",
+     "prompt": "Yeni bir Almanca kursuna başlıyorsun. Kurs hocana kısa bir mesaj yaz.",
+     "minWords": 25,
+     "points": [
+      "Adını söyle",
+      "Nereden geldiğini söyle",
+      "Nerede oturduğunu ve telefon numaranı yaz"
+     ],
+     "sample": "Guten Tag, ich heiße Yusuf Ilerisoy. Ich komme aus der Türkei, aus Antalya. Ich wohne jetzt in Antalya, Atatürk-Straße 12. Meine Telefonnummer ist 0532 123 45 67. Auf Wiedersehen!"
+    },
+    {
+     "id": "k1.s.done",
+     "type": "station-done",
+     "title": "Durak 5 tamamlandı"
+    }
+   ]
+  },
+  {
+   "id": "imitieren",
+   "title": "Nachsprechen",
+   "steps": [
+    {
+     "id": "k1.i.shadow",
+     "type": "shadow",
+     "title": "Nachsprechen",
+     "subtitle": "Dinle, aynısını söyle · 3 tur",
+     "sentences": [
+      {
+       "de": "Guten Tag, ich heiße Pablo Puente. Wie heißen Sie?",
+       "tr": "İyi günler, benim adım Pablo Puente. Sizin adınız ne?",
+       "track": "1.04"
+      },
+      {
+       "de": "Guten Morgen.",
+       "tr": "Günaydın.",
+       "track": "1.05"
+      },
+      {
+       "de": "Auf Wiedersehen.",
+       "tr": "Görüşmek üzere.",
+       "track": "1.05"
+      },
+      {
+       "de": "Ich heiße Anne Dahms.",
+       "tr": "Benim adım Anne Dahms.",
+       "track": "1.08"
+      },
+      {
+       "de": "Wer bist du?",
+       "tr": "Sen kimsin?",
+       "track": "1.08"
+      },
+      {
+       "de": "Hallo, ich bin Ben. Und wer bist du?",
+       "tr": "Merhaba, ben Ben. Peki sen kimsin?",
+       "track": "1.07"
+      },
+      {
+       "de": "Entschuldigung, wie heißt du?",
+       "tr": "Affedersin, adın ne?",
+       "track": "1.07"
+      },
+      {
+       "de": "Ah, Sie sind Herr Bieber!",
+       "tr": "Aa, siz Bay Bieber'siniz!",
+       "track": "1.06"
+      },
+      {
+       "de": "Woher kommen Sie, Frau Dumitru?",
+       "tr": "Nereden geliyorsunuz, Bayan Dumitru?",
+       "track": "1.16"
+      },
+      {
+       "de": "Ich komme aus Rumänien, aus Deva.",
+       "tr": "Romanya'dan, Deva'dan geliyorum.",
+       "track": "1.16"
+      },
+      {
+       "de": "Und wo wohnen Sie jetzt?",
+       "tr": "Peki şimdi nerede oturuyorsunuz?",
+       "track": "1.16"
+      },
+      {
+       "de": "Ich wohne in München.",
+       "tr": "Münih'te oturuyorum.",
+       "track": "1.16"
+      },
+      {
+       "de": "Das ist Pablo. Er kommt aus Spanien.",
+       "tr": "Bu Pablo. O İspanya'dan geliyor."
+      },
+      {
+       "de": "Wie ist Ihr Familienname?",
+       "tr": "Soyadınız nedir?",
+       "track": "1.18"
+      },
+      {
+       "de": "Wie schreibt man das, bitte?",
+       "tr": "Bu nasıl yazılıyor, lütfen?",
+       "track": "1.18"
+      },
+      {
+       "de": "Wie ist Ihre Telefonnummer?",
+       "tr": "Telefon numaranız nedir?",
+       "track": "1.18"
+      }
+     ]
+    },
+    {
+     "id": "k1.i.lauf",
+     "type": "laufdiktat",
+     "title": "Nachschreiben · Laufdiktat",
+     "subtitle": "Cümle 3 sn görünür, hafızadan yaz",
+     "sentences": [
+      {
+       "de": "Guten Tag, ich heiße Pablo Puente. Wie heißen Sie?",
+       "tr": "İyi günler, benim adım Pablo Puente. Sizin adınız ne?"
+      },
+      {
+       "de": "Guten Morgen.",
+       "tr": "Günaydın."
+      },
+      {
+       "de": "Auf Wiedersehen.",
+       "tr": "Görüşmek üzere."
+      },
+      {
+       "de": "Ich heiße Anne Dahms.",
+       "tr": "Benim adım Anne Dahms."
+      },
+      {
+       "de": "Wer bist du?",
+       "tr": "Sen kimsin?"
+      },
+      {
+       "de": "Hallo, ich bin Ben. Und wer bist du?",
+       "tr": "Merhaba, ben Ben. Peki sen kimsin?"
+      },
+      {
+       "de": "Entschuldigung, wie heißt du?",
+       "tr": "Affedersin, adın ne?"
+      },
+      {
+       "de": "Ah, Sie sind Herr Bieber!",
+       "tr": "Aa, siz Bay Bieber'siniz!"
+      },
+      {
+       "de": "Woher kommen Sie, Frau Dumitru?",
+       "tr": "Nereden geliyorsunuz, Bayan Dumitru?"
+      },
+      {
+       "de": "Ich komme aus Rumänien, aus Deva.",
+       "tr": "Romanya'dan, Deva'dan geliyorum."
+      }
+     ],
+     "showMs": 3000
+    },
+    {
+     "id": "k1.i.done",
+     "type": "station-done",
+     "title": "Durak 6 tamamlandı"
+    }
+   ]
+  },
+  {
+   "id": "pruefung",
+   "title": "Prüfung",
+   "steps": [
+    {
+     "id": "k1.p.hoeren",
+     "type": "exam",
+     "part": "hoeren",
+     "title": "Hören",
+     "subtitle": "Prüfung · Teil 1 · her parça 2 kez",
+     "minutes": 6,
+     "items": [
+      {
+       "id": "h1",
+       "kind": "choice",
+       "prompt": "Woher kommt Frau Dumitru?",
+       "track": "1.18",
+       "options": [
+        {
+         "text": "aus Spanien",
+         "correct": false
+        },
+        {
+         "text": "aus Rumänien",
+         "correct": true
+        },
+        {
+         "text": "aus Polen",
+         "correct": false
+        }
+       ],
+       "explain": "„Woher kommen Sie?“ – „Aus Rumänien.“"
+      },
+      {
+       "id": "h2",
+       "kind": "choice",
+       "prompt": "Wie ist die Postleitzahl von Frau Dumitru?",
+       "track": "1.18",
+       "options": [
+        {
+         "text": "80331",
+         "correct": true
+        },
+        {
+         "text": "80313",
+         "correct": false
+        },
+        {
+         "text": "83031",
+         "correct": false
+        }
+       ]
+      },
+      {
+       "id": "h3",
+       "kind": "truefalse",
+       "prompt": "Frau Dumitru wohnt in der Blumenstraße 4.",
+       "track": "1.18",
+       "answer": true
+      },
+      {
+       "id": "h4",
+       "kind": "choice",
+       "prompt": "Wo wohnt Frau Dumitru jetzt?",
+       "track": "1.16",
+       "options": [
+        {
+         "text": "in Berlin",
+         "correct": false
+        },
+        {
+         "text": "in München-Pasing",
+         "correct": true
+        },
+        {
+         "text": "in Deva",
+         "correct": false
+        }
+       ],
+       "explain": "„Ich wohne jetzt in München-Pasing.“"
+      },
+      {
+       "id": "h5",
+       "kind": "choice",
+       "prompt": "Woher kommt Pablo?",
+       "track": "1.16",
+       "options": [
+        {
+         "text": "aus León",
+         "correct": true
+        },
+        {
+         "text": "aus Lublin",
+         "correct": false
+        },
+        {
+         "text": "aus Chicago",
+         "correct": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "k1.p.lesen",
+     "type": "exam",
+     "part": "lesen",
+     "title": "Lesen",
+     "subtitle": "Prüfung · Teil 3 · Richtig oder falsch?",
+     "minutes": 6,
+     "items": [
+      {
+       "id": "l1",
+       "kind": "truefalse",
+       "text": "K&L Dienstleistungen GmbH\nAnmeldung: Montag bis Freitag, 9–17 Uhr, Zimmer 4.",
+       "prompt": "Die Anmeldung ist am Samstag möglich.",
+       "answer": false,
+       "explain": "Montag bis Freitag – Samstag ist nicht dabei."
+      },
+      {
+       "id": "l2",
+       "kind": "truefalse",
+       "text": "Deutschkurs A1 – Multilingua\nMontag und Mittwoch, 18–20 Uhr. Lehrerin: Frau Nowak. Raum 2.",
+       "prompt": "Der Kurs ist am Abend.",
+       "answer": true
+      },
+      {
+       "id": "l3",
+       "kind": "truefalse",
+       "text": "Anmeldung\nFamilienname: Puente · Vorname: Pablo · Herkunft: Spanien · Wohnort: München · Telefon: 089 44 55 66",
+       "prompt": "Pablo Puente wohnt in Spanien.",
+       "answer": false,
+       "explain": "Er kommt aus Spanien, er wohnt in München."
+      },
+      {
+       "id": "l4",
+       "kind": "choice",
+       "text": "Hallo! Ich heiße Dana Nowak. Ich komme aus Polen, aus Lublin. Ich wohne jetzt in Deutschland, in München.",
+       "prompt": "Was ist richtig?",
+       "options": [
+        {
+         "text": "Dana wohnt in Lublin.",
+         "correct": false
+        },
+        {
+         "text": "Dana kommt aus Polen.",
+         "correct": true
+        },
+        {
+         "text": "Dana kommt aus Deutschland.",
+         "correct": false
+        }
+       ]
+      },
+      {
+       "id": "l5",
+       "kind": "truefalse",
+       "text": "Telefonliste Deutschkurs\nEleni Dumitru 089 63822392 · Ben Bieber 089 12 34 56 · Amir Mazaad 0176 555 44 33",
+       "prompt": "Die Telefonnummer von Eleni ist 089 63822392.",
+       "answer": true
+      }
+     ]
+    },
+    {
+     "id": "k1.done",
+     "type": "chapter-done",
+     "title": "Kapitel 1 abgeschlossen",
+     "cando": [
+      "sich begrüßen und verabschieden",
+      "sich mit Namen, Adresse und Wohnort vorstellen",
+      "nach Namen, Herkunft und Wohnort fragen",
+      "eine andere Person vorstellen",
+      "buchstabieren",
+      "Telefonnummer und Postleitzahl sagen"
+     ]
+    }
+   ]
+  }
+ ]
+}

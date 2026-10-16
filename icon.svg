@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#16315f"/>
+  <circle cx="400" cy="112" r="150" fill="#1f4388"/>
+  <path d="M120 400 L120 160" stroke="#ffffff" stroke-opacity="0.25" stroke-width="22" stroke-linecap="round"/>
+  <path d="M120 400 L120 260" stroke="#e8792a" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="120" cy="160" r="24" fill="#16315f" stroke="#ffffff" stroke-opacity="0.5" stroke-width="14"/>
+  <circle cx="120" cy="280" r="24" fill="#e8792a" stroke="#ffffff" stroke-width="14"/>
+  <circle cx="120" cy="400" r="24" fill="#e8792a" stroke="#e8792a" stroke-width="14"/>
+  <text x="200" y="330" font-family="Bricolage Grotesque, Avenir Next, Helvetica, Arial, sans-serif" font-weight="800" font-size="200" fill="#ffffff">L1</text>
+</svg>
